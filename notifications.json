@@ -1,0 +1,74 @@
+[
+  {
+    "id": "notif_006f4598",
+    "user_email": "atchyutharaoika@gmail.com",
+    "title": "Booking Confirmed",
+    "message": "Your stay at Laknavaram Bamboo Eco Cottages (2026-11-28 to 2026-11-29) is confirmed (SY-C0A3D).",
+    "kind": "confirmed",
+    "read": false,
+    "created_at": "2026-11-27T12:46:26.970397+00:00"
+  },
+  {
+    "id": "notif_355f89e2",
+    "user_email": "atchyutharaoika@gmail.com",
+    "title": "Booking Confirmed",
+    "message": "Your stay at Ananthagiri Mist Forest Retreat (2026-11-28 to 2026-11-29) is confirmed (SY-0F722).",
+    "kind": "confirmed",
+    "read": false,
+    "created_at": "2026-11-27T13:15:12.210868+00:00"
+  },
+  {
+    "id": "notif_98681510",
+    "user_email": "atchyutharaoika@gmail.com",
+    "title": "Booking Confirmed",
+    "message": "Your stay at Ananthagiri Mist Forest Retreat (2026-11-03 to 2026-11-04) is confirmed (SY-78D5F).",
+    "kind": "confirmed",
+    "read": false,
+    "created_at": "2026-11-27T13:16:05.964184+00:00"
+  },
+  {
+    "id": "notif_6042005b",
+    "user_email": "atchyutharaoika@gmail.com",
+    "title": "Booking Cancelled",
+    "message": "Booking SY-78D5F at Ananthagiri Mist Forest Retreat has been cancelled.",
+    "kind": "cancelled",
+    "read": false,
+    "created_at": "2026-11-27T14:27:02.794914+00:00"
+  },
+  {
+    "id": "notif_186bcaea",
+    "user_email": "atchyutharaoika@gmail.com",
+    "title": "Booking Cancelled",
+    "message": "Booking SY-0F722 at Ananthagiri Mist Forest Retreat has been cancelled.",
+    "kind": "cancelled",
+    "read": false,
+    "created_at": "2026-11-27T14:27:03.851979+00:00"
+  },
+  {
+    "id": "notif_0cd7a65b",
+    "user_email": "atchyutharaoika@gmail.com",
+    "title": "Booking Cancelled",
+    "message": "Booking SY-C0A3D at Laknavaram Bamboo Eco Cottages has been cancelled.",
+    "kind": "cancelled",
+    "read": false,
+    "created_at": "2026-11-27T14:27:05.021156+00:00"
+  },
+  {
+    "id": "notif_4b1aae36",
+    "user_email": "atchyutharaoika@gmail.com",
+    "title": "Booking Confirmed",
+    "message": "Your stay at Laknavaram Bamboo Eco Cottages (2026-11-28 to 2026-11-29) is confirmed (SY-BDD96).",
+    "kind": "confirmed",
+    "read": false,
+    "created_at": "2026-11-27T17:42:24.184405+00:00"
+  },
+  {
+    "id": "notif_3d91c9db",
+    "user_email": "atchyutharaoika@gmail.com",
+    "title": "Booking Confirmed",
+    "message": "Your stay at Pochampally Weaver Courtyard Homestay (2026-11-28 to 2026-11-29) is confirmed (SY-4BB61).",
+    "kind": "confirmed",
+    "read": false,
+    "created_at": "2026-11-27T18:06:24.956703+00:00"
+  }
+]

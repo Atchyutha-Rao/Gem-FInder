@@ -1,0 +1,44 @@
+[
+  {
+    "id": "usr_0903a2d176e6",
+    "name": "Atchyutha Rao Ika",
+    "email": "atchyutharaoika@gmail.com",
+    "password_hash": "95e8e974f1cca06ac4dd0a37ac1ee132$770e47d4f549f994ea99bd344e6778ef4b95c58d836d047df66863507502518d",
+    "saved_ids": [],
+    "created_at": "2026-11-27T10:51:46.434033+00:00",
+    "phone": "7989843868",
+    "city": "Visakhapatnam",
+    "emergency_contacts": [
+      {
+        "name": "Amma",
+        "phone": "8639187425"
+      }
+    ]
+  },
+  {
+    "id": "usr_4beeff8ceb25",
+    "name": "Atchyutha Rao Ika",
+    "email": "ikaatchyutharao@gmail.com",
+    "role": "admin",
+    "phone": "",
+    "city": "",
+    "password_hash": "7ec3240212a47476978dffb251f71b72$768f0dc7065ea7d071e34da4f8313b9e0080028deae4e6a38b789e08ec3eac06",
+    "saved_ids": [],
+    "emergency_contacts": [],
+    "saved_trips": [],
+    "created_at": "2026-11-27T16:36:05.384772+00:00"
+  },
+  {
+    "id": "usr_a173e827cc40",
+    "name": "Atchyuth",
+    "email": "s240073@rguktsklm.ac.in",
+    "role": "host",
+    "phone": "",
+    "city": "",
+    "password_hash": "1ec1742f68830ba902eb209f3c1c8040$9d3478773b6a8302c524914e16c8f2849572e0e231290f1baddf8b6c0d3a9ae6",
+    "saved_ids": [],
+    "emergency_contacts": [],
+    "saved_trips": [],
+    "created_at": "2026-11-27T16:39:20.260760+00:00"
+  }
+]

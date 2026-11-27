@@ -1,0 +1,101 @@
+[
+  {
+    "id": "6ac0cbe8b86ff047c480f51e",
+    "stay_id": "6a9db674f05a5ee5345707c3",
+    "stay_name": "Green Hills Stay",
+    "gem_id": null,
+    "author": "Arjun Das",
+    "rating": 5,
+    "comment": "Slightly off the main road but that is exactly why it is peaceful. Host arranged a local guide for us.",
+    "created_at": "2026-10-03T09:33:28.227000",
+    "source": "smartyatra-export"
+  },
+  {
+    "id": "6ac0cbe8b86ff047c480f51d",
+    "stay_id": "6a9db674f05a5ee5345707c3",
+    "stay_name": "Green Hills Stay",
+    "gem_id": null,
+    "author": "Sneha Iyer",
+    "rating": 5,
+    "comment": "Clean, comfortable and very safe for solo travellers. Would come back in a heartbeat.",
+    "created_at": "2026-10-03T09:33:28.227000",
+    "source": "smartyatra-export"
+  },
+  {
+    "id": "6ac0cbe8b86ff047c480f51c",
+    "stay_id": "6a9db674f05a5ee5345707c3",
+    "stay_name": "Green Hills Stay",
+    "gem_id": null,
+    "author": "Rahul Nair",
+    "rating": 5,
+    "comment": "Beautiful property, warm hosts, and the bonfire evening was the highlight of our trip.",
+    "created_at": "2026-10-03T09:33:28.227000",
+    "source": "smartyatra-export"
+  },
+  {
+    "id": "6ac0cbe8b86ff047c480f51b",
+    "stay_id": "6a9db674f05a5ee5345707c4",
+    "stay_name": "Spiti Snow Lodge",
+    "gem_id": null,
+    "author": "Priya Menon",
+    "rating": 5,
+    "comment": "Quiet, safe and exactly as described. The directions were spot on and the host checked in on us daily.",
+    "created_at": "2026-10-03T09:33:28.227000",
+    "source": "smartyatra-export"
+  },
+  {
+    "id": "6ac0cbe8b86ff047c480f51a",
+    "stay_id": "6a9db674f05a5ee5345707c4",
+    "stay_name": "Spiti Snow Lodge",
+    "gem_id": null,
+    "author": "Vikram Shetty",
+    "rating": 5,
+    "comment": "Genuinely felt like staying with family. Home-cooked breakfast and great tips on the hidden trails.",
+    "created_at": "2026-10-03T09:33:28.227000",
+    "source": "smartyatra-export"
+  },
+  {
+    "id": "6ac0cbe8b86ff047c480f519",
+    "stay_id": "6a9db674f05a5ee5345707c4",
+    "stay_name": "Spiti Snow Lodge",
+    "gem_id": null,
+    "author": "Ananya Rao",
+    "rating": 4,
+    "comment": "Spotless rooms and the host waited up for our late arrival. Waking up to that view was unreal.",
+    "created_at": "2026-10-03T09:33:28.227000",
+    "source": "smartyatra-export"
+  },
+  {
+    "id": "6ac0cbe8b86ff047c480f518",
+    "stay_id": "6a9db674f05a5ee5345707c5",
+    "stay_name": "Konkan Sands Villa",
+    "gem_id": null,
+    "author": "Arjun Das",
+    "rating": 5,
+    "comment": "Slightly off the main road but that is exactly why it is peaceful. Host arranged a local guide for us.",
+    "created_at": "2026-10-03T09:33:28.227000",
+    "source": "smartyatra-export"
+  },
+  {
+    "id": "6ac0cbe8b86ff047c480f517",
+    "stay_id": "6a9db674f05a5ee5345707c5",
+    "stay_name": "Konkan Sands Villa",
+    "gem_id": null,
+    "author": "Sneha Iyer",
+    "rating": 4,
+    "comment": "Clean, comfortable and very safe for solo travellers. Would come back in a heartbeat.",
+    "created_at": "2026-10-03T09:33:28.227000",
+    "source": "smartyatra-export"
+  },
+  {
+    "id": "6ac0cbe8b86ff047c480f516",
+    "stay_id": "6a9db674f05a5ee5345707c5",
+    "stay_name": "Konkan Sands Villa",
+    "gem_id": null,
+    "author": "Rahul Nair",
+    "rating": 5,
+    "comment": "Beautiful property, warm hosts, and the bonfire evening was the highlight of our trip.",
+    "created_at": "2026-10-03T09:33:28.227000",
+    "source": "smartyatra-export"
+  }
+]

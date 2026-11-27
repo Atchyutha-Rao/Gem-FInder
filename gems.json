@@ -1,0 +1,2930 @@
+[
+  {
+    "id": "gem_001",
+    "name": "Bogatha Waterfall",
+    "name_te": "బోగత జలపాతం",
+    "category": "nature",
+    "state": "Telangana",
+    "region": "Mulugu, Telangana",
+    "lat": 18.4761,
+    "lng": 80.5,
+    "summary": "A wide, curtain-like forest cascade on the Cheekupally stream, known locally as the Niagara of Telangana.",
+    "story": "Tucked inside the semi-evergreen forests of Wazeedu Mandal in the Godavari basin, Bogatha is Telangana's second-largest waterfall. Fed by the Cheekupally stream, the water fans across a broad 30-foot rocky ledge into an emerald pool surrounded by bamboo groves and a small Bogateswara Swamy shrine.",
+    "story_te": "ములుగు జిల్లా వాజేడు మండలంలోని దట్టమైన అడవుల మధ్య చీకుపల్లి వాగుపై ఉన్న బోగత జలపాతం తెలంగాణలో రెండో అతిపెద్ద జలపాతం. సుమారు 30 అడుగుల ఎత్తు నుండి విశాలమైన రాతి పలకలపై నుండి పాలధారలా దూకుతూ పర్యాటకులను ఆకట్టుకుంటుంది. సమీపంలో బోగతేశ్వర స్వామి ఆలయం ఉంది.",
+    "best_season": "Jul-Nov",
+    "how_to_reach": "135 km east of Warangal via NH-163 (Eturnagaram bridge); 90 km from Mulugu town. Short forest trail walk from parking.",
+    "budget_per_day": 900,
+    "duration_hours": 3.5,
+    "images": [
+      "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_001_1.svg",
+      "/img/gem_001_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (Coordinates & data verified via Telangana Tourism)",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Koyaveerapuram Eco-Tourism Guides",
+        "contact": "+91 98480 01001 (Sample Demo)",
+        "note": "Local tribal youth guiding trail walks & safety"
+      },
+      {
+        "type": "food",
+        "name": "Cheekupally Forest Bamboo Tea & Millet Stall",
+        "contact": "Entry Gate, Wazeedu Road",
+        "note": "Freshly brewed local snacks run by village SHG"
+      }
+    ],
+    "tags": [
+      "waterfall",
+      "monsoon",
+      "forest-trek",
+      "offbeat"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_002",
+    "name": "Ghanpur Group of Temples (Kota Gullu)",
+    "name_te": "ఘనపూర్ కోట గుళ్ళు",
+    "category": "heritage",
+    "state": "Telangana",
+    "region": "Mulugu, Telangana",
+    "lat": 18.3111,
+    "lng": 79.8722,
+    "summary": "A serene 13th-century Kakatiya sandstone temple complex hidden inside a double stone enclosure near Palampet.",
+    "story": "Often overshadowed by nearby Ramappa Temple, Kota Gullu in Ghanpur comprises 22 shrines built during the late 12th and early 13th centuries under Kakatiya ruler Ganapati Deva. Carved from local reddish-brown sandstone, its pillars feature graceful mythical gajakesari and dancing figures inside a quiet walled courtyard.",
+    "story_te": "రామప్ప దేవాలయానికి సమీపంలో ఉన్నప్పటికీ ఎంతోమందికి తెలియని ఘనపూర్ కోట గుళ్ళు 13వ శతాబ్దపు కాకతీయ శిల్పకళకు అద్భుత నిదర్శనం. గణపతి దేవుని కాలంలో నిర్మించిన 22 చిన్న పెద్ద ఆలయాల సముదాయం ఎర్రని ఇసుకరాయి శిల్పాలతో ప్రశాంత వాతావరణంలో అలరారుతుంది.",
+    "best_season": "Oct-Feb",
+    "how_to_reach": "60 km from Warangal and 9 km north-west of Palampet (Ramappa). Frequent local autos from Mulugu.",
+    "budget_per_day": 700,
+    "duration_hours": 2.5,
+    "images": [
+      "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_002_1.svg",
+      "/img/gem_002_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (ASI / Kakatiya Heritage Records)",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Ghanpur Heritage Walk Volunteer",
+        "contact": "+91 98480 01002 (Sample Demo)",
+        "note": "Explains Kakatiya inscriptions & iconography"
+      },
+      {
+        "type": "food",
+        "name": "Palampet Village Meal Tiffin",
+        "contact": "Main Temple Road, Ghanpur",
+        "note": "Home-style jonna roti and country dal"
+      }
+    ],
+    "tags": [
+      "kakatiya",
+      "architecture",
+      "quiet",
+      "photography"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_003",
+    "name": "Laknavaram Lake & Island Trail",
+    "name_te": "లక్నవరం సరస్సు",
+    "category": "nature",
+    "state": "Telangana",
+    "region": "Mulugu, Telangana",
+    "lat": 18.1504,
+    "lng": 80.0696,
+    "summary": "A 13th-century Kakatiya irrigation reservoir dotted with wooded islands linked by a quiet suspension bridge.",
+    "story": "Originally engineered by Kakatiya rulers in the 13th century by damming a natural valley between three hills, Laknavaram spans over 10,000 acres across forest slopes. Visitors cross a 160-meter suspension bridge onto peaceful islands shaded by teak and palmyra trees.",
+    "story_te": "13వ శతాబ్దంలో కాకతీయులు మూడు కొండల మధ్య సహజమైన లోయకు ఆనకట్ట కట్టి నిర్మించిన లక్నవరం సరస్సు నేటికీ రైతులకు నీరందిస్తోంది. పచ్చని ద్వీపాలు, వాటిని కలిపే వేలాడే వంతెన ప్రశాంత ప్రకృతి ప్రేమికులకు స్వర్గధామం.",
+    "best_season": "Sep-Feb",
+    "how_to_reach": "70 km from Warangal along the Mulugu–Govindaraopet road; 210 km from Hyderabad.",
+    "budget_per_day": 1100,
+    "duration_hours": 4.0,
+    "images": [
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_003_1.svg",
+      "/img/gem_003_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (Telangana Forest Dept.)",
+    "local_support": [
+      {
+        "type": "stay",
+        "name": "Govindaraopet Forest Village Homestay",
+        "contact": "+91 98480 01003 (Sample Demo)",
+        "note": "Eco-cottages & local village breakfast"
+      },
+      {
+        "type": "guide",
+        "name": "Laknavaram Boatmen Cooperative",
+        "contact": "Lake Jetty Counter",
+        "note": "Local fishermen offering morning row/motor trips"
+      }
+    ],
+    "tags": [
+      "lake",
+      "islands",
+      "family",
+      "sunset"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_004",
+    "name": "Rachakonda Fort",
+    "name_te": "రాచకొండ కోట",
+    "category": "heritage",
+    "state": "Telangana",
+    "region": "Yadadri Bhuvanagiri, Telangana",
+    "lat": 17.182,
+    "lng": 78.802,
+    "summary": "A 14th-century dry-stone hill fort built entirely without mortar by the Recherla Velama kings.",
+    "story": "Constructed around 1360 CE by Recherla Anapotanayaka after the Kakatiya decline, Rachakonda served as a fortified capital nestled amid seven granite hills. Massive cyclopean blocks interlock purely by gravity without mortar, enclosing ancient stepwells, Ramalayam ruins, and sweeping valley ridges.",
+    "story_te": "కాకతీయుల అనంతరం 1360లో రేచర్ల అనపోతనాయకుడు నిర్మించిన రాచకొండ కోట సున్నం లేదా సిమెంట్ వాడకుండా కేవలం భారీ రాళ్ళను అమర్చి కట్టిన అద్భుత నిర్మాణం. ఏడు కొండల మధ్య ఉన్న ఈ కోట ట్రెక్కింగ్ మరియు చరిత్ర ప్రియులకు ఎంతో నచ్చుతుంది.",
+    "best_season": "Oct-Feb",
+    "how_to_reach": "60 km southeast of Hyderabad via Ibrahimpatnam and Choutuppal; reach Rachakonda village base by car or bus.",
+    "budget_per_day": 650,
+    "duration_hours": 3.5,
+    "images": [
+      "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_004_1.svg",
+      "/img/gem_004_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (Telangana Heritage Dept.)",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Rachakonda Grama Trek Guides",
+        "contact": "+91 98480 01004 (Sample Demo)",
+        "note": "Village youth guiding safe hill ridge trails"
+      },
+      {
+        "type": "food",
+        "name": "Samsthan Narayanpur Millet Kitchen",
+        "contact": "Village Junction, 6 km away",
+        "note": "Traditional Telangana Ragi Sangati & country curry"
+      }
+    ],
+    "tags": [
+      "fort",
+      "trek",
+      "dry-stone",
+      "weekend"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_005",
+    "name": "Medak Fort (Methuku Durgam)",
+    "name_te": "మెదక్ కోట (మెతుకు దుర్గం)",
+    "category": "heritage",
+    "state": "Telangana",
+    "region": "Medak, Telangana",
+    "lat": 18.032,
+    "lng": 78.268,
+    "summary": "A 12th-century Kakatiya citadel crowning a granite hillock with lion-carved gateways and a 17th-century cannon.",
+    "story": "Originally named Methuku Durgam ('fort of cooked rice') under Kakatiya king Pratapa Rudra, Medak Fort guarded northern Deccan routes for centuries. Three imposing gateways—Prathama, Simha (lion), and Gaja (elephant)—lead up to Qutb Shahi granaries, a hilltop mosque, and a 3.2-meter bronze-iron cannon.",
+    "story_te": "12వ శతాబ్దంలో కాకతీయ రాజు ప్రతాపరుద్రుని కాలంలో నిర్మితమైన 'మెతుకు దుర్గం' నేడు మెదక్ కోటగా ప్రసిద్ధి చెందింది. సింహ ద్వారం, గజ ద్వారం, 17వ శతాబ్దపు భారీ ఫిరంగి మరియు కొండపై నుండి కనిపించే పచ్చని పొలాలు ఇక్కడి ప్రత్యేక ఆకర్షణలు.",
+    "best_season": "Sep-Feb",
+    "how_to_reach": "95 km north of Hyderabad via Narsapur; frequent TSRTC buses to Medak town, 15-minute climb to fort.",
+    "budget_per_day": 750,
+    "duration_hours": 3.0,
+    "images": [
+      "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_005_1.svg",
+      "/img/gem_005_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (Wikipedia / Telangana Heritage)",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Medak Town Heritage Walkers",
+        "contact": "+91 98480 01005 (Sample Demo)",
+        "note": "Covers fort & historic Medak Cathedral circuit"
+      },
+      {
+        "type": "food",
+        "name": "Nawabpet Village Toddy-Palm & Sarva Pindi Stall",
+        "contact": "Fort Base Road, Medak",
+        "note": "Authentic slow-cooked rice flour pancakes"
+      }
+    ],
+    "tags": [
+      "fort",
+      "kakatiya",
+      "panoramic",
+      "day-trip"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_006",
+    "name": "Bhoodan Pochampally Ikat Cluster",
+    "name_te": "భూదాన్ పోచంపల్లి చేనేత గ్రామం",
+    "category": "culture",
+    "state": "Telangana",
+    "region": "Yadadri Bhuvanagiri, Telangana",
+    "lat": 17.3572,
+    "lng": 78.8122,
+    "summary": "UNWTO-recognized handloom village where weaver families resist-dye warp and weft threads into geometric silk ikat.",
+    "story": "Celebrated both as the birthplace of Vinoba Bhave's 1951 Bhoodan (land-gift) movement and India's first craft GI tag for textiles, Pochampally hums with the rhythm of pit looms. Visitors can walk directly into family courtyards to watch tie-and-dye yarn preparation before buying fair-price weaves.",
+    "story_te": "1951లో వినోబా భావే భూదాన్ ఉద్యమానికి వేదికైన పోచంపల్లి, ప్రపంచ ప్రఖ్యాత ఇక్కత్ చేనేత చీరలకు పుట్టినిల్లు. UNWTO గుర్తింపు పొందిన ఈ గ్రామంలో నేతన్నల ఇళ్ళల్లోనే దారాలకు రంగులు అద్దడం, మగ్గం నేయడం ప్రత్యక్షంగా చూడవచ్చు.",
+    "best_season": "All Year",
+    "how_to_reach": "42 km east of Hyderabad via Hayatnagar; local buses and shared autos run regularly from Uppal Ring Road.",
+    "budget_per_day": 1000,
+    "duration_hours": 3.5,
+    "images": [
+      "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_006_1.svg",
+      "/img/gem_006_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (UNWTO Best Tourism Village)",
+    "local_support": [
+      {
+        "type": "craft",
+        "name": "Pochampally Handloom Weavers Cooperative",
+        "contact": "+91 98480 01006 (Sample Demo)",
+        "note": "Direct-from-loom cotton & silk ikat studio visits"
+      },
+      {
+        "type": "stay",
+        "name": "Weaver Courtyard Homestay",
+        "contact": "Bhoodan Street, Pochampally",
+        "note": "Spend a morning learning yarn-tying with artisans"
+      }
+    ],
+    "tags": [
+      "handloom",
+      "gi-tag",
+      "crafts",
+      "community"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_007",
+    "name": "Gadwal Kupadam Weaving Cluster",
+    "name_te": "గద్వాల్ కుపడం చేనేత గ్రామం",
+    "category": "culture",
+    "state": "Telangana",
+    "region": "Jogulamba Gadwal, Telangana",
+    "lat": 16.2333,
+    "lng": 77.8,
+    "summary": "River-basin weaving town famed for interlocking cotton-body and silk-border sarees woven fine enough to fit in a matchbox.",
+    "story": "Patronized since the 19th century by the Gadwal Samsthanam between the Krishna and Tungabhadra rivers, artisans here practice the intricate Kupadam technique—joining a pure silk border seamlessly onto a featherweight cotton body on three-shuttle looms.",
+    "story_te": "కృష్ణా, తుంగభద్ర నదుల మధ్య వెలసిన గద్వాల్ పట్టణం కుపడం చేనేతకు ప్రసిద్ధి. పత్తి చీరకు పట్టు అంచును మూడు షటిళ్ళ మగ్గంపై అద్భుతంగా అతికించే కళ ఇక్కడి నేతన్నల సొంతం. అగ్గిపెట్టెలో పట్టేంత సున్నితమైన చీరలు ఇక్కడ నేస్తారు.",
+    "best_season": "Oct-Mar",
+    "how_to_reach": "188 km south of Hyderabad via NH-44; Gadwal has direct rail connections from Kacheguda and Kurnool.",
+    "budget_per_day": 950,
+    "duration_hours": 3.0,
+    "images": [
+      "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_007_1.svg",
+      "/img/gem_007_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (GI Registry India)",
+    "local_support": [
+      {
+        "type": "craft",
+        "name": "Gadwal Padmashali Master Weavers Guild",
+        "contact": "+91 98480 01007 (Sample Demo)",
+        "note": "Live Kupadam three-shuttle loom demonstration"
+      },
+      {
+        "type": "guide",
+        "name": "Gadwal Fort & Temple Local Docent",
+        "contact": "Old Fort Street, Gadwal",
+        "note": "Guided walk through Chennakesava Temple inside the mud fort"
+      }
+    ],
+    "tags": [
+      "handloom",
+      "gi-tag",
+      "heritage",
+      "artisans"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_008",
+    "name": "Cheriyal Nakashi Scroll Studio",
+    "name_te": "చేర్యాల నకాశీ చిత్రకళా గ్రామం",
+    "category": "culture",
+    "state": "Telangana",
+    "region": "Siddipet, Telangana",
+    "lat": 17.67,
+    "lng": 79.01,
+    "summary": "A 400-year-old Nakashi painting village crafting vivid crimson storytelling scrolls and sawdust-tamarind folk masks.",
+    "story": "Historically unfurled by traveling village balladeers like early comic strips, Cheriyal scrolls are painted on khadi cloth primed with tamarind-seed paste and natural mineral pigments against a signature deep red backdrop. Only a handful of hereditary Nakashi families preserve this GI-tagged art today.",
+    "story_te": "400 ఏళ్ల చరిత్ర కలిగిన చేర్యాల నకాశీ చిత్రకళ గ్రామీణ కథకులకు దృశ్యరూపంగా ఉండేది. ఖాదీ వస్త్రంపై చింతగింజల గంజి పూసి, ఎర్రని నేపథ్యంపై ప్రకృతి రంగులతో రామాయణ, జానపద గాథలను చిత్రిస్తారు. చెక్క, రంపపు పొట్టుతో చేసే ముసుగులు ఇక్కడ ప్రత్యేకం.",
+    "best_season": "All Year",
+    "how_to_reach": "95 km northeast of Hyderabad via Shameerpet and Siddipet highway; 65 km west of Warangal.",
+    "budget_per_day": 800,
+    "duration_hours": 2.5,
+    "images": [
+      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_008_1.svg",
+      "/img/gem_008_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (Nakashi Artisan Heritage)",
+    "local_support": [
+      {
+        "type": "craft",
+        "name": "Cheriyal Nakashi Family Workshop",
+        "contact": "+91 98480 01008 (Sample Demo)",
+        "note": "Hands-on natural pigment & mask-painting session"
+      },
+      {
+        "type": "food",
+        "name": "Siddipet Village Golichina & Jowar Kitchen",
+        "contact": "Cheriyal Main Bazaar",
+        "note": "Local family kitchen serving rural Telangana thali"
+      }
+    ],
+    "tags": [
+      "painting",
+      "gi-tag",
+      "folklore",
+      "workshop"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_009",
+    "name": "Pochera & Gayatri Forest Cascades",
+    "name_te": "పోచెర మరియు గాయత్రి జలపాతాలు",
+    "category": "nature",
+    "state": "Telangana",
+    "region": "Adilabad, Telangana",
+    "lat": 19.3431,
+    "lng": 78.3869,
+    "summary": "Deep-gorge basalt cascades tucked in Adilabad's Sahyadri hills, far quieter than neighboring Kuntala.",
+    "story": "Fed by tributaries of the Godavari carving through stepped black basalt ridges near Boath, Pochera drops into a deep, echoing pool flanked by deciduous forests. A 20-km forest drive away, Gayatri Waterfall (Mukdi Gundam) rewards a 5-km village foot-trail from Tarnam Khurd with untouched solitude.",
+    "story_te": "ఆదిలాబాద్ జిల్లా బోథ్ సమీపంలోని నల్ల రాతి కొండల మధ్య పోచెర జలపాతం లోతైన లోయలోకి దూకుతుంది. దీనికి సమీపంలోనే తార్నమ్ ఖుర్ద్ గ్రామం నుండి 5 కిలోమీటర్ల అడవి నడకతో చేరుకునే ప్రశాంతమైన గాయత్రి (ముక్ది గుండం) జలపాతం ఉంది.",
+    "best_season": "Aug-Dec",
+    "how_to_reach": "48 km from Adilabad town and 38 km from Nirmal off NH-44 via Boath; 257 km north of Hyderabad.",
+    "budget_per_day": 900,
+    "duration_hours": 4.5,
+    "images": [
+      "https://images.unsplash.com/photo-1511497584788-876760111969?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_009_1.svg",
+      "/img/gem_009_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (Adilabad Ecotourism)",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Tarnam Khurd Gond Trail Guides",
+        "contact": "+91 98480 01009 (Sample Demo)",
+        "note": "Essential local guides for the 5 km Gayatri forest trek"
+      },
+      {
+        "type": "stay",
+        "name": "Nirmal Craft & Forest Homestay",
+        "contact": "Boath–Nirmal Highway",
+        "note": "Base camp run by local families near Nirmal toy clusters"
+      }
+    ],
+    "tags": [
+      "waterfall",
+      "trek",
+      "sahyadri",
+      "wilderness"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_010",
+    "name": "Warangal Sarva Pindi Hearth Kitchens",
+    "name_te": "వరంగల్ సర్వపిండి గ్రామీణ వంటశాల",
+    "category": "food",
+    "state": "Telangana",
+    "region": "Warangal, Telangana",
+    "lat": 17.9689,
+    "lng": 79.5941,
+    "summary": "Crisp, skillet-pressed rice-flour pancakes studded with roasted peanuts, sesame, and chana dal served hot by women's collectives.",
+    "story": "Named after the deep iron 'sarva' pan in which it is hand-pressed with finger indentations for slow oil crisping, Sarva Pindi is Telangana's soulful comfort staple. Small neighborhood kitchens around Hanamkonda and Warangal Fort Road still slow-roast it over iron griddles paired with fresh curd and sesame chutney.",
+    "story_te": "లోతైన ఇనుప గిన్నె (సర్వ) లో బియ్యప్పిండి, వేరుశెనగలు, నువ్వులు, శనగపప్పు, కరివేపాకు కలిపి నెమ్మదిగా కాల్చే సర్వపిండి తెలంగాణ గ్రామీణ రుచుల్లో రారాజు. వరంగల్ కోట పరిసరాల్లోని మహిళా సంఘాల వంటశాలల్లో ఇది వేడివేడిగా లభిస్తుంది.",
+    "best_season": "All Year",
+    "how_to_reach": "145 km northeast of Hyderabad via NH-163; 10 minutes from Warangal Railway Station near Fort Road.",
+    "budget_per_day": 450,
+    "duration_hours": 1.5,
+    "images": [
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_010_1.svg",
+      "/img/gem_010_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (Telangana Culinary Heritage)",
+    "local_support": [
+      {
+        "type": "food",
+        "name": "Kakatiya Mahila Gruha Vantashala",
+        "contact": "+91 98480 01010 (Sample Demo)",
+        "note": "Women-led tiffin kitchen serving Sarva Pindi, Sakinalu & Jonna Roti"
+      },
+      {
+        "type": "craft",
+        "name": "Kareemabad Dhurrie Rug Weavers",
+        "contact": "3 km from Fort Road",
+        "note": "Nearby cotton rug weaving lane welcoming visitors"
+      }
+    ],
+    "tags": [
+      "street-food",
+      "vegetarian",
+      "women-led",
+      "authentic"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_011",
+    "name": "Belum Caves Underground Chambers",
+    "name_te": "బెలుం గుహలు",
+    "category": "nature",
+    "state": "Andhra Pradesh",
+    "region": "Nandyal, Andhra Pradesh",
+    "lat": 15.1041,
+    "lng": 78.1305,
+    "summary": "India's second-largest natural limestone cave system with subterranean stalactite halls and ancient Buddhist relics.",
+    "story": "Carved over millennia by the vanished underground Chitravathi river in black limestone, Belum Caves stretch over 3.2 km beneath arid farmland. Inside, galleries named 'Simhadwaram', 'Meditation Hall', and 'Patalaganga' stay cool year-round, preserving evidence of Jain and Buddhist monks who meditated here centuries ago.",
+    "story_te": "భారతదేశంలో రెండో అతిపెద్ద సహజ సున్నపురాయి గుహలైన బెలుం గుహలు నంద్యాల జిల్లాలో భూగర్భంలో సుమారు 3.2 కిలోమీటర్ల మేర విస్తరించి ఉన్నాయి. సింహద్వారం, పాతాళగంగ వంటి వింత ఆకృతులతో పాటు ప్రాచీన బౌద్ధ, జైన భిక్షువుల ఆనవాళ్ళు ఇక్కడ కనిపిస్తాయి.",
+    "best_season": "Oct-Mar",
+    "how_to_reach": "106 km from Kurnool and 30 km from Tadipatri railway station; direct state buses stop at Belum village.",
+    "budget_per_day": 850,
+    "duration_hours": 3.0,
+    "images": [
+      "https://images.unsplash.com/photo-1504870712357-65ea720d6078?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_011_1.svg",
+      "/img/gem_011_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (AP Tourism / Geological Survey)",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Belum Village Cave Interpreters",
+        "contact": "+91 98480 01011 (Sample Demo)",
+        "note": "Trained local guides explaining karst formations & acoustics"
+      },
+      {
+        "type": "food",
+        "name": "Rayalaseema Ragi Sangati Mess",
+        "contact": "Belum Cave Gate, Kolimigundla Road",
+        "note": "Family eatery serving Rayalaseema millet balls & groundnut chutney"
+      }
+    ],
+    "tags": [
+      "caves",
+      "geology",
+      "buddhist",
+      "family"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_012",
+    "name": "Sri Yaganti Uma Maheswara Temple",
+    "name_te": "శ్రీ యాగంటి ఉమామహేశ్వర ఆలయం",
+    "category": "heritage",
+    "state": "Andhra Pradesh",
+    "region": "Nandyal, Andhra Pradesh",
+    "lat": 15.3508,
+    "lng": 78.1394,
+    "summary": "A 15th-century Vijayanagara hill-cliff temple famous for its spring-fed Pushkarani tank and sacred cave shrines.",
+    "story": "Built in the 15th century by Harihara Bukka Raya of the Vijayanagara Empire amid the Erramala hills, Yaganti sits beside natural caves like Agastya Cave and Venkateswara Cave. Fresh mountain spring water flows year-round through stone Nandi mouths into the temple Pushkarani.",
+    "story_te": "ఎర్రమల కొండల నడుమ 15వ శతాబ్దంలో విజయనగర రాజులు నిర్మించిన యాగంటి క్షేత్రం అత్యంత పవిత్రమైనది. ఎప్పుడూ నీరు ఊరే పుష్కరిణి, అగస్త్య గుహ, వెంకటేశ్వర గుహ మరియు వింతైన బసవన్న విగ్రహం భక్తులను, చరిత్రకారులను ఆకట్టుకుంటాయి.",
+    "best_season": "Sep-Feb",
+    "how_to_reach": "14 km from Banaganapalle and 55 km from Nandyal; just 28 km north of Belum Caves.",
+    "budget_per_day": 650,
+    "duration_hours": 2.5,
+    "images": [
+      "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_012_1.svg",
+      "/img/gem_012_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (Vijayanagara Heritage Records)",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Yaganti Cave & Temple Storyteller",
+        "contact": "+91 98480 01012 (Sample Demo)",
+        "note": "Shares 15th-century Vijayanagara stonework & cave lore"
+      },
+      {
+        "type": "food",
+        "name": "Banaganapalle Village Uggani & Bajji Stall",
+        "contact": "Temple Courtyard Outer Lane",
+        "note": "Local puffed-rice breakfast with roasted gram powder"
+      }
+    ],
+    "tags": [
+      "temple",
+      "vijayanagara",
+      "caves",
+      "spiritual"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_013",
+    "name": "Gandikota Penna Gorge & Fort",
+    "name_te": "గండికోట కోట మరియు పెన్నా లోయ",
+    "category": "heritage",
+    "state": "Andhra Pradesh",
+    "region": "YSR Kadapa, Andhra Pradesh",
+    "lat": 14.8147,
+    "lng": 78.2867,
+    "summary": "A 12th-century red-quartzite hilltop fort perched above a dramatic horseshoe gorge carved by the Penna River.",
+    "story": "Founded in 1123 CE and later fortified by the Pemmasani Nayaks under Vijayanagara rule, Gandikota guards a sweeping 300-foot canyon cut through the Erramala hills. Inside its 5-km red granite walls stand the Madhavaraya Temple, Ranganatha Temple, Jamia Masjid, and an ancient granary.",
+    "story_te": "ఎర్రమల కొండల మధ్య పెన్నా నది కోసిన 300 అడుగుల లోతైన లోయ అంచున ఉన్న గండికోట భారతదేశపు గ్రాండ్ కాన్యన్‌గా పేరుగాంచింది. 12వ శతాబ్దం నుండి పెమ్మసాని నాయకుల కాలం నాటి ఎర్ర రాతి కోట గోడలు, రంగనాథ ఆలయం, ధాన్యాగారం ఇక్కడ చూడాల్సిన అద్భుతాలు.",
+    "best_season": "Oct-Feb",
+    "how_to_reach": "15 km from Jammalamadugu town (nearest railhead Muddanur 27 km); 77 km from Kadapa.",
+    "budget_per_day": 1100,
+    "duration_hours": 4.0,
+    "images": [
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_013_1.svg",
+      "/img/gem_013_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (Kadapa Heritage)",
+    "local_support": [
+      {
+        "type": "stay",
+        "name": "Gandikota Village Eco-Tents & Homestay",
+        "contact": "+91 98480 01013 (Sample Demo)",
+        "note": "Village-managed sunrise viewpoint stays & Rayalaseema dinner"
+      },
+      {
+        "type": "guide",
+        "name": "Penna Gorge Kayaking & Fort Guides",
+        "contact": "Fort Main Gate",
+        "note": "Local youth supporting responsible canyon walks"
+      }
+    ],
+    "tags": [
+      "canyon",
+      "fort",
+      "sunset",
+      "camping"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_014",
+    "name": "Etikoppaka Lacquer Toy Artisans",
+    "name_te": "ఏటికొప్పాక లక్క బొమ్మల గ్రామం",
+    "category": "culture",
+    "state": "Andhra Pradesh",
+    "region": "Anakapalli, Andhra Pradesh",
+    "lat": 17.5,
+    "lng": 82.7333,
+    "summary": "A riverside artisan village along the Varaha River turning soft Ankudu wood and natural seed dyes into non-toxic lacquer toys.",
+    "story": "Practiced for over 400 years and awarded a GI tag in 2017, Etikoppaka Bommalu are turned on hand lathes from lightweight Ankudu wood (Wrightia tinctoria). Artisans fuse natural lac resin with pigments from turmeric, indigo, and kumkum seeds, creating velvety, child-safe heirloom toys.",
+    "story_te": "వరాహ నది తీరంలో 400 ఏళ్లుగా వస్తున్న ఏటికొప్పాక కొయ్యబొమ్మల కళకు 2017లో GI ట్యాగ్ లభించింది. మెత్తని అంకుడు కర్రను చేతి మరపై తిప్పి, పసుపు, నీలి, కుంకుమ వంటి పూర్తి సహజసిద్ధమైన రంగులు, లక్కతో పిల్లలకు హాని చేయని బొమ్మలను తయారు చేస్తారు.",
+    "best_season": "All Year",
+    "how_to_reach": "65 km southwest of Visakhapatnam and 15 km from Yelamanchili railway station via NH-16.",
+    "budget_per_day": 850,
+    "duration_hours": 3.0,
+    "images": [
+      "https://images.unsplash.com/photo-1596464716127-f2a82984de30?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_014_1.svg",
+      "/img/gem_014_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (Etikoppaka Artisans)",
+    "local_support": [
+      {
+        "type": "craft",
+        "name": "Varaha Artisan Lacquer Cooperative",
+        "contact": "+91 98480 01014 (Sample Demo)",
+        "note": "Watch live Ankudu wood-turning & buy direct from makers"
+      },
+      {
+        "type": "food",
+        "name": "Yelamanchili Village Nuvvula Undalu & Meals",
+        "contact": "Artisan Street, Etikoppaka",
+        "note": "Home-made coastal Andhra lunch & sesame jaggery sweets"
+      }
+    ],
+    "tags": [
+      "crafts",
+      "gi-tag",
+      "eco-friendly",
+      "family"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_015",
+    "name": "Kondapalli Bommala Colony",
+    "name_te": "కొండపల్లి బొమ్మల కాలనీ",
+    "category": "culture",
+    "state": "Andhra Pradesh",
+    "region": "NTR District, Andhra Pradesh",
+    "lat": 16.6167,
+    "lng": 80.5833,
+    "summary": "A 400-year-old carving street near Vijayawada where artisans sculpt Tella Poniki softwood into expressive Sankranti folk figurines.",
+    "story": "In Kondapalli's Bommala Colony, Arya Kshatriya families carve lightweight Tella Poniki wood harvested from the surrounding hills, joining limbs with 'makku'—a paste of tamarind seeds and sawdust. The vibrant Dasavataram sets, dancing dolls, and rural vignettes are prized across Telugu households.",
+    "story_te": "విజయవాడ సమీపంలోని కొండపల్లి బొమ్మల కాలనీలో ఆర్య క్షత్రియ కళాకారులు కొండల్లో దొరికే తేలికపాటి తెల్ల పొనికి కర్రతో 400 ఏళ్లుగా బొమ్మలు చెక్కుతున్నారు. చింతగింజల పొడి (మక్కు) తో అతికించి సంక్రాంతి కొలువులకు అందమైన పల్లె బొమ్మలు రూపొందిస్తారు.",
+    "best_season": "All Year",
+    "how_to_reach": "22 km northwest of Vijayawada via Ibrahimpatnam; local city buses and Kondapalli station trains run daily.",
+    "budget_per_day": 800,
+    "duration_hours": 2.5,
+    "images": [
+      "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_015_1.svg",
+      "/img/gem_015_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (Kondapalli Craft Guild)",
+    "local_support": [
+      {
+        "type": "craft",
+        "name": "Bommala Colony Master Carvers Society",
+        "contact": "+91 98480 01015 (Sample Demo)",
+        "note": "Workshop tour showing Tella Poniki carving & natural paint mixing"
+      },
+      {
+        "type": "guide",
+        "name": "Kondapalli Hill Fort Trail Host",
+        "contact": "Fort Base Gate, 2 km uphill",
+        "note": "Pairs craft visit with 14th-century Kondapalli Fort ruins"
+      }
+    ],
+    "tags": [
+      "crafts",
+      "gi-tag",
+      "wood-carving",
+      "heritage"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_016",
+    "name": "Dindi Coconut Backwaters & Village Stay",
+    "name_te": "దిండి కొబ్బరి తోటలు మరియు బ్యాక్‌వాటర్స్",
+    "category": "village",
+    "state": "Andhra Pradesh",
+    "region": "Konaseema, Andhra Pradesh",
+    "lat": 16.4485,
+    "lng": 81.7872,
+    "summary": "Calm Godavari delta backwaters lined with emerald coconut palms, ferry crossings, and family-run river homestays.",
+    "story": "Set in Malikipuram mandal of Dr. B.R. Ambedkar Konaseema district, Dindi offers the tranquil beauty of Andhra's river delta without commercial crowds. Wooden country boats glide past paddy bunds, traditional toddy-tappers, and riverside villages where guests share fresh coconut-milk fish curries and clay-pot meals.",
+    "story_te": "డా. బి.ఆర్. అంబేద్కర్ కోనసీమ జిల్లాలోని దిండి గ్రామం పచ్చని కొబ్బరి తోటలు, ప్రశాంతమైన గోదావరి పాయలతో మినీ కేరళను తలపిస్తుంది. పడవ ప్రయాణం, పల్లెటూరి అతిథ్యం, తాజా కొబ్బరి నీళ్ళు మరియు గోదావరి రుచులు ఇక్కడ మరుపురాని అనుభూతినిస్తాయి.",
+    "best_season": "Oct-Mar",
+    "how_to_reach": "85 km from Rajahmundry airport/station via Ravulapalem and Razole; well connected by Konaseema rural buses.",
+    "budget_per_day": 1300,
+    "duration_hours": 5.0,
+    "images": [
+      "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_016_1.svg",
+      "/img/gem_016_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (Konaseema Community Tourism)",
+    "local_support": [
+      {
+        "type": "stay",
+        "name": "Godavari Coconut Grove Homestay",
+        "contact": "+91 98480 01016 (Sample Demo)",
+        "note": "Riverside village rooms & guided cycling on canal bunds"
+      },
+      {
+        "type": "guide",
+        "name": "Dindi Country Boatmen Union",
+        "contact": "Chinchinada Ferry Ghat",
+        "note": "Sunset canal boat rides supporting local oarsmen"
+      }
+    ],
+    "tags": [
+      "backwaters",
+      "village-stay",
+      "cycling",
+      "slow-travel"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_017",
+    "name": "Atreyapuram Pootharekulu Cottage Kitchens",
+    "name_te": "ఆత్రేయపురం పూతరేకుల కుటీర పరిశ్రమ",
+    "category": "food",
+    "state": "Andhra Pradesh",
+    "region": "Konaseema, Andhra Pradesh",
+    "lat": 16.8339,
+    "lng": 81.7869,
+    "summary": "A riverside Konaseema village where women artisans craft India's GI-tagged translucent 'paper sweet' on heated clay pots.",
+    "story": "Awarded a Geographical Indication tag in 2023, Atreyapuram Pootharekulu begins with superfine Jaya rice batter brushed deftly onto an inverted earthen pot warmed by paddy-husk fire. Layers of tissue-thin rice starch sheets are folded around pure ghee, palm jaggery, and cashews by hundreds of village women artisans.",
+    "story_te": "2023లో GI ట్యాగ్ పొందిన ఆత్రేయపురం పూతరేకులు 'పేపర్ స్వీట్' గా ప్రపంచ ప్రసిద్ధి చెందాయి. కాల్చిన మట్టి కుండపై జయ బియ్యపు పిండితో కాగితం లాంటి పలుచని రేకులు తీసి, వాటిలో స్వచ్ఛమైన నెయ్యి, బెల్లం పొడి, జీడిపప్పు చుట్టి మహిళా కళాకారులు తయారు చేస్తారు.",
+    "best_season": "All Year",
+    "how_to_reach": "35 km from Rajahmundry across the Dowleswaram barrage along the Vasishta Godavari canal road.",
+    "budget_per_day": 600,
+    "duration_hours": 2.0,
+    "images": [
+      "https://images.unsplash.com/photo-1567337710282-00832b415979?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_017_1.svg",
+      "/img/gem_017_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (Konaseema Women's Collective)",
+    "local_support": [
+      {
+        "type": "food",
+        "name": "Atreyapuram Mahila Pootharekulu Sangham",
+        "contact": "+91 98480 01017 (Sample Demo)",
+        "note": "Live clay-pot sheet making & fresh warm jaggery rolls"
+      },
+      {
+        "type": "craft",
+        "name": "Godavari Mamidi Tandra Makers",
+        "contact": "Atreyapuram Canal Road",
+        "note": "Sun-dried traditional mango jelly sheets by local farms"
+      }
+    ],
+    "tags": [
+      "gi-tag",
+      "sweets",
+      "women-led",
+      "culinary"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_018",
+    "name": "Maredumilli Bamboo Chicken & Eco-Camp",
+    "name_te": "మారేడుమిల్లి బొంగు చికెన్ మరియు అటవీ శిబిరం",
+    "category": "food",
+    "state": "Andhra Pradesh",
+    "region": "Alluri Sitharama Raju, Andhra Pradesh",
+    "lat": 17.59,
+    "lng": 81.71,
+    "summary": "Indigenous Konda Reddi forest cooking where spiced chicken roasts oil-free inside green bamboo tubes over glowing wood coals.",
+    "story": "Set in the misty Eastern Ghats near Amruthadhara and Jalatarangini waterfalls, Maredumilli is celebrated for Bongu Kodi (Bamboo Chicken). Tribal cooks pack marinated meat into fresh green bamboo stems sealed with forest leaves and slow-roast them over embers—infused purely with smoky bamboo sap alongside community-run forest eco-camps.",
+    "story_te": "తూర్పు కనుమల్లోని మారేడుమిల్లి అడవుల్లో గిరిజనుల ప్రత్యేక వంటకం 'బొంగు చికెన్' (బాంబూ చికెన్). నూనె, నీరు లేకుండా పచ్చి వెదురు బొంగులో మసాలా దట్టించిన చికెన్ నింపి బొగ్గుల మీద కాల్చడం వల్ల అద్భుతమైన రుచి వస్తుంది. సమీపంలో అమృతధార జలపాతం ఉంది.",
+    "best_season": "Sep-Feb",
+    "how_to_reach": "88 km north of Rajahmundry along the Rampachodavaram–Bhadrachalam ghat road.",
+    "budget_per_day": 1150,
+    "duration_hours": 4.5,
+    "images": [
+      "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_018_1.svg",
+      "/img/gem_018_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (AP Forest VSS Ecotourism)",
+    "local_support": [
+      {
+        "type": "food",
+        "name": "Vana Samrakshana Bamboo Kitchen",
+        "contact": "+91 98480 01018 (Sample Demo)",
+        "note": "Authentic Bongu Chicken & forest honey run by tribal youth"
+      },
+      {
+        "type": "stay",
+        "name": "Jungle Star VSS Eco-Camp",
+        "contact": "Vali-Sugriva Konda Road, Maredumilli",
+        "note": "Community-managed stream-side cottages & guided waterfall walks"
+      }
+    ],
+    "tags": [
+      "tribal-food",
+      "waterfall",
+      "eastern-ghats",
+      "ecotourism"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_019",
+    "name": "Coringa Mangrove Boardwalk",
+    "name_te": "కోరింగ మడ అడవుల పర్యావరణ కేంద్రం",
+    "category": "nature",
+    "state": "Andhra Pradesh",
+    "region": "Kakinada, Andhra Pradesh",
+    "lat": 16.8314,
+    "lng": 82.3367,
+    "summary": "India's second-largest mangrove delta where wooden walkways wind above fiddler crabs, otters, and tidal Godavari creeks.",
+    "story": "Stretching along the Bay of Bengal estuary between Kakinada and Yanam, Coringa Wildlife Sanctuary shelters over 35 mangrove species and rare smooth-coated otters. Elevated wooden boardwalks let visitors observe tidal mudflats, kingfishers, and fishing boats at dawn without disturbing the fragile coastal ecosystem.",
+    "story_te": "కాకినాడ సమీపంలో గోదావరి ముఖద్వారం వద్ద ఉన్న కోరింగ అభయారణ్యం భారతదేశంలో రెండో అతిపెద్ద మడ అడవి. చెక్క వంతెనలపై నడుస్తూ ఆలివ్ రిడ్లీ తాబేళ్లు, నీటి పక్షులు, మడ వృక్షాల వింతైన వేళ్ళను దగ్గరగా చూడవచ్చు.",
+    "best_season": "Nov-Feb",
+    "how_to_reach": "18 km south of Kakinada town along the Kakinada–Yanam highway; easy auto or bus access.",
+    "budget_per_day": 750,
+    "duration_hours": 3.0,
+    "images": [
+      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_019_1.svg",
+      "/img/gem_019_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (AP Forest Department)",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Coringa Estuary Eco-Guides",
+        "contact": "+91 98480 01019 (Sample Demo)",
+        "note": "Birdwatching & mangrove ecology walks at sunrise"
+      },
+      {
+        "type": "food",
+        "name": "Kakinada Historic Gottam Kaja Bakery",
+        "contact": "Main Road, Kakinada (18 km)",
+        "note": "1891-origin hollow sugar-syrup cylindrical sweet"
+      }
+    ],
+    "tags": [
+      "mangroves",
+      "wildlife",
+      "boardwalk",
+      "birding"
+    ],
+    "status": "verified",
+    "source": "seed",
+    "submitted_by": "Untold Trails Research Team"
+  },
+  {
+    "id": "gem_020",
+    "name": "Koilkonda Hill Fort & Waterfalls",
+    "name_te": "కోయిల్‌కొండ కొండ కోట",
+    "category": "heritage",
+    "state": "Telangana",
+    "region": "Mahabubnagar, Telangana",
+    "lat": 16.7525,
+    "lng": 77.7914,
+    "summary": "A quiet Qutb Shahi hill fort perched above granite boulders, seasonal cascades, and an ancient hilltop reservoir.",
+    "story": "Built on an imposing granite massif in Mahabubnagar district, Koilkonda Fort guarded the southern Qutb Shahi frontier against Vijayanagara advances in the 16th century. Seven fortified gates, moss-lined stone cisterns, and monsoon streams make it a rewarding, crowd-free heritage trek.",
+    "story_te": "మహబూబ్‌నగర్ జిల్లాలోని కోయిల్‌కొండ కోట 16వ శతాబ్దంలో కుతుబ్ షాహీ కాలంలో నిర్మించిన ఎత్తైన కొండ కోట. ఏడు ద్వారాలు, కొండపై చెరువు, వర్షాకాలంలో పక్కనే ప్రవహించే జలపాతాలు ట్రెక్కర్లకు కనువిందు చేస్తాయి.",
+    "best_season": "Aug-Feb",
+    "how_to_reach": "23 km west of Mahabubnagar town; local buses reach Koilkonda village.",
+    "budget_per_day": 650,
+    "duration_hours": 3.0,
+    "images": [
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=80&auto=format&fit=crop",
+      "/img/gem_020_1.svg",
+      "/img/gem_020_2.svg"
+    ],
+    "image_credit": "Untold Trails Illustrated Archive (Community Submission Demo)",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Koilkonda Village Youth Trek Team",
+        "contact": "+91 98480 01020 (Sample Demo)",
+        "note": "Assists hikers along the 7-gate granite ascent"
+      }
+    ],
+    "tags": [
+      "fort",
+      "offbeat",
+      "monsoon",
+      "trek"
+    ],
+    "status": "verified",
+    "source": "community",
+    "submitted_by": "Ravi Kiran (Mahabubnagar Local)"
+  },
+  {
+    "id": "6ac09f8af13a44a02ba841ef",
+    "slug": "konda-kinda-uru",
+    "name": "Konda Kinda Uru",
+    "name_te": "",
+    "category": "village",
+    "place_type": "Tribal Village",
+    "state": "Andhra Pradesh",
+    "region": "Konda Kinda Uru, Andhra Pradesh",
+    "lat": 18.3272,
+    "lng": 82.876,
+    "summary": "A quiet tribal hamlet of mud-walled homes and coffee patches above the Araku valley floor.",
+    "story": "A quiet tribal hamlet of mud-walled homes and coffee patches above the Araku valley floor. Popular activities: Village walk, Coffee estate visit, Araku coffee tasting, Sunrise viewpoint.",
+    "story_te": "",
+    "things_to_do": [
+      "Village walk",
+      "Coffee estate visit",
+      "Araku coffee tasting",
+      "Sunrise viewpoint"
+    ],
+    "best_season": "Oct - Feb",
+    "how_to_reach": "Approx. 118 km from the nearest regional transport hub in Andhra Pradesh.",
+    "budget_per_day": 1500,
+    "duration_hours": 4.0,
+    "distance_km": 118,
+    "crowd_level": "Low",
+    "safety_score": 92,
+    "avg_rating": 4.7,
+    "hidden": true,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1685681993201-dd26547f8f1e?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09f8af13a44a02ba841ef_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Konda Kinda Uru Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "tribal-village",
+      "village-walk",
+      "coffee-estate-visit",
+      "araku-coffee-tasting"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c192396358",
+    "slug": "valley-of-flowers",
+    "name": "Valley of Flowers",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Trek",
+    "state": "Uttarakhand",
+    "region": "Valley of Flowers, Uttarakhand",
+    "lat": 30.728,
+    "lng": 79.6053,
+    "summary": "A UNESCO meadow that blooms with hundreds of alpine wildflowers each monsoon.",
+    "story": "A UNESCO meadow that blooms with hundreds of alpine wildflowers each monsoon. Popular activities: Hemkund Sahib, Govindghat trek, Pushpawati river, Ghangaria stay.",
+    "story_te": "",
+    "things_to_do": [
+      "Hemkund Sahib",
+      "Govindghat trek",
+      "Pushpawati river",
+      "Ghangaria stay"
+    ],
+    "best_season": "Jul - Sep",
+    "how_to_reach": "Approx. 2000 km from the nearest regional transport hub in Uttarakhand.",
+    "budget_per_day": 2800,
+    "duration_hours": 4.0,
+    "distance_km": 2000,
+    "crowd_level": "Low",
+    "safety_score": 90,
+    "avg_rating": 4.8,
+    "hidden": true,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c192396358_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Valley of Flowers Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "trek",
+      "hemkund-sahib",
+      "govindghat-trek",
+      "pushpawati-river"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c192396357",
+    "slug": "tawang",
+    "name": "Tawang",
+    "name_te": "",
+    "category": "culture",
+    "place_type": "Mountain",
+    "state": "Arunachal Pradesh",
+    "region": "Tawang, Arunachal Pradesh",
+    "lat": 27.5859,
+    "lng": 91.8594,
+    "summary": "A high Himalayan monastery town above cloud-filled valleys.",
+    "story": "A high Himalayan monastery town above cloud-filled valleys. Popular activities: Tawang Monastery, Sela Pass, Nuranang falls, Bum La Pass.",
+    "story_te": "",
+    "things_to_do": [
+      "Tawang Monastery",
+      "Sela Pass",
+      "Nuranang falls",
+      "Bum La Pass"
+    ],
+    "best_season": "Mar - Oct",
+    "how_to_reach": "Approx. 2600 km from the nearest regional transport hub in Arunachal Pradesh.",
+    "budget_per_day": 3600,
+    "duration_hours": 4.0,
+    "distance_km": 2600,
+    "crowd_level": "Low",
+    "safety_score": 88,
+    "avg_rating": 4.8,
+    "hidden": true,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1502685104226-ee32379fefbe?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c192396357_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Tawang Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "mountain",
+      "tawang-monastery",
+      "sela-pass",
+      "nuranang-falls"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c192396356",
+    "slug": "auli",
+    "name": "Auli",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Snow",
+    "state": "Uttarakhand",
+    "region": "Auli, Uttarakhand",
+    "lat": 30.5286,
+    "lng": 79.5665,
+    "summary": "India's quietest ski slopes with Nanda Devi filling the horizon.",
+    "story": "India's quietest ski slopes with Nanda Devi filling the horizon. Popular activities: Skiing, Cable car, Gurso Bugyal trek, Narsingh temple.",
+    "story_te": "",
+    "things_to_do": [
+      "Skiing",
+      "Cable car",
+      "Gurso Bugyal trek",
+      "Narsingh temple"
+    ],
+    "best_season": "Dec - Mar",
+    "how_to_reach": "Approx. 1900 km from the nearest regional transport hub in Uttarakhand.",
+    "budget_per_day": 3200,
+    "duration_hours": 4.0,
+    "distance_km": 1900,
+    "crowd_level": "Low",
+    "safety_score": 89,
+    "avg_rating": 4.7,
+    "hidden": true,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1656928132166-749e2fb1c46d?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c192396356_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Auli Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "snow",
+      "skiing",
+      "cable-car",
+      "gurso-bugyal-trek"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c192396355",
+    "slug": "wayanad",
+    "name": "Wayanad",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Forest",
+    "state": "Kerala",
+    "region": "Wayanad, Kerala",
+    "lat": 11.6854,
+    "lng": 76.132,
+    "summary": "Rainforest trails, coffee estates and tribal villages in the Western Ghats.",
+    "story": "Rainforest trails, coffee estates and tribal villages in the Western Ghats. Popular activities: Edakkal Caves, Chembra Peak, Bamboo rafting, Soochipara falls.",
+    "story_te": "",
+    "things_to_do": [
+      "Edakkal Caves",
+      "Chembra Peak",
+      "Bamboo rafting",
+      "Soochipara falls"
+    ],
+    "best_season": "Oct - May",
+    "how_to_reach": "Approx. 1300 km from the nearest regional transport hub in Kerala.",
+    "budget_per_day": 2500,
+    "duration_hours": 4.0,
+    "distance_km": 1300,
+    "crowd_level": "Low",
+    "safety_score": 90,
+    "avg_rating": 4.6,
+    "hidden": true,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c192396355_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Wayanad Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "forest",
+      "edakkal-caves",
+      "chembra-peak",
+      "bamboo-rafting"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c192396354",
+    "slug": "agra",
+    "name": "Agra",
+    "name_te": "",
+    "category": "heritage",
+    "place_type": "Heritage",
+    "state": "Uttar Pradesh",
+    "region": "Agra, Uttar Pradesh",
+    "lat": 27.1767,
+    "lng": 78.0081,
+    "summary": "Home of the Taj Mahal — marble inlay, Mughal forts and riverfront views.",
+    "story": "Home of the Taj Mahal — marble inlay, Mughal forts and riverfront views. Popular activities: Taj Mahal sunrise, Agra Fort, Mehtab Bagh, Fatehpur Sikri.",
+    "story_te": "",
+    "things_to_do": [
+      "Taj Mahal sunrise",
+      "Agra Fort",
+      "Mehtab Bagh",
+      "Fatehpur Sikri"
+    ],
+    "best_season": "Oct - Mar",
+    "how_to_reach": "Approx. 1450 km from the nearest regional transport hub in Uttar Pradesh.",
+    "budget_per_day": 2200,
+    "duration_hours": 4.0,
+    "distance_km": 1450,
+    "crowd_level": "High",
+    "safety_score": 82,
+    "avg_rating": 4.6,
+    "hidden": false,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c192396354_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Agra Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "heritage",
+      "taj-mahal-sunrise",
+      "agra-fort",
+      "mehtab-bagh"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c192396353",
+    "slug": "leh-ladakh",
+    "name": "Leh–Ladakh",
+    "name_te": "",
+    "category": "culture",
+    "place_type": "High Altitude",
+    "state": "Ladakh",
+    "region": "Leh–Ladakh, Ladakh",
+    "lat": 34.1526,
+    "lng": 77.5771,
+    "summary": "Moonscape mountains, monasteries and Pangong under a deep blue sky.",
+    "story": "Moonscape mountains, monasteries and Pangong under a deep blue sky. Popular activities: Pangong Lake, Nubra Valley, Thiksey Monastery, Khardung La.",
+    "story_te": "",
+    "things_to_do": [
+      "Pangong Lake",
+      "Nubra Valley",
+      "Thiksey Monastery",
+      "Khardung La"
+    ],
+    "best_season": "Jun - Sep",
+    "how_to_reach": "Approx. 3000 km from the nearest regional transport hub in Ladakh.",
+    "budget_per_day": 4500,
+    "duration_hours": 4.0,
+    "distance_km": 3000,
+    "crowd_level": "Low",
+    "safety_score": 90,
+    "avg_rating": 4.9,
+    "hidden": true,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c192396353_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Leh–Ladakh Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "high-altitude",
+      "pangong-lake",
+      "nubra-valley",
+      "thiksey-monastery"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c192396352",
+    "slug": "shimla",
+    "name": "Shimla",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Hill Station",
+    "state": "Himachal Pradesh",
+    "region": "Shimla, Himachal Pradesh",
+    "lat": 31.1048,
+    "lng": 77.1734,
+    "summary": "Colonial architecture on pine ridges with the toy train winding up.",
+    "story": "Colonial architecture on pine ridges with the toy train winding up. Popular activities: The Ridge, Jakhoo Temple, Mall Road, Kufri.",
+    "story_te": "",
+    "things_to_do": [
+      "The Ridge",
+      "Jakhoo Temple",
+      "Mall Road",
+      "Kufri"
+    ],
+    "best_season": "Mar - Jun",
+    "how_to_reach": "Approx. 2050 km from the nearest regional transport hub in Himachal Pradesh.",
+    "budget_per_day": 2600,
+    "duration_hours": 4.0,
+    "distance_km": 2050,
+    "crowd_level": "Medium",
+    "safety_score": 88,
+    "avg_rating": 4.5,
+    "hidden": false,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1578048117504-495014256835?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c192396352_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Shimla Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "hill-station",
+      "the-ridge",
+      "jakhoo-temple",
+      "mall-road"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c192396351",
+    "slug": "mysore",
+    "name": "Mysore",
+    "name_te": "",
+    "category": "heritage",
+    "place_type": "Heritage",
+    "state": "Karnataka",
+    "region": "Mysore, Karnataka",
+    "lat": 12.2958,
+    "lng": 76.6394,
+    "summary": "A royal city of sandalwood, silk and the illuminated Mysore Palace.",
+    "story": "A royal city of sandalwood, silk and the illuminated Mysore Palace. Popular activities: Mysore Palace, Chamundi Hill, Devaraja Market, Brindavan Gardens.",
+    "story_te": "",
+    "things_to_do": [
+      "Mysore Palace",
+      "Chamundi Hill",
+      "Devaraja Market",
+      "Brindavan Gardens"
+    ],
+    "best_season": "Oct - Mar",
+    "how_to_reach": "Approx. 1100 km from the nearest regional transport hub in Karnataka.",
+    "budget_per_day": 2200,
+    "duration_hours": 4.0,
+    "distance_km": 1100,
+    "crowd_level": "Medium",
+    "safety_score": 88,
+    "avg_rating": 4.5,
+    "hidden": false,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c192396351_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Mysore Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "heritage",
+      "mysore-palace",
+      "chamundi-hill",
+      "devaraja-market"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c192396350",
+    "slug": "andaman-islands",
+    "name": "Andaman Islands",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Island",
+    "state": "Andaman & Nicobar",
+    "region": "Andaman Islands, Andaman & Nicobar",
+    "lat": 11.7401,
+    "lng": 92.6586,
+    "summary": "Turquoise water, coral reefs and powder-white sand far from the mainland.",
+    "story": "Turquoise water, coral reefs and powder-white sand far from the mainland. Popular activities: Scuba diving, Radhanagar beach, Cellular Jail, Sea walking.",
+    "story_te": "",
+    "things_to_do": [
+      "Scuba diving",
+      "Radhanagar beach",
+      "Cellular Jail",
+      "Sea walking"
+    ],
+    "best_season": "Oct - May",
+    "how_to_reach": "Approx. 1400 km from the nearest regional transport hub in Andaman & Nicobar.",
+    "budget_per_day": 4200,
+    "duration_hours": 4.0,
+    "distance_km": 1400,
+    "crowd_level": "Low",
+    "safety_score": 91,
+    "avg_rating": 4.8,
+    "hidden": true,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1567157577867-05ccb1388e66?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c192396350_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Andaman Islands Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "island",
+      "scuba-diving",
+      "radhanagar-beach",
+      "cellular-jail"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c19239634f",
+    "slug": "pondicherry",
+    "name": "Pondicherry",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Coastal",
+    "state": "Puducherry",
+    "region": "Pondicherry, Puducherry",
+    "lat": 11.9416,
+    "lng": 79.8083,
+    "summary": "French quarter lanes, yellow walls and quiet beaches south of Chennai.",
+    "story": "French quarter lanes, yellow walls and quiet beaches south of Chennai. Popular activities: French Quarter walk, Auroville, Promenade beach, Paradise beach.",
+    "story_te": "",
+    "things_to_do": [
+      "French Quarter walk",
+      "Auroville",
+      "Promenade beach",
+      "Paradise beach"
+    ],
+    "best_season": "Oct - Mar",
+    "how_to_reach": "Approx. 750 km from the nearest regional transport hub in Puducherry.",
+    "budget_per_day": 2600,
+    "duration_hours": 4.0,
+    "distance_km": 750,
+    "crowd_level": "Low",
+    "safety_score": 88,
+    "avg_rating": 4.5,
+    "hidden": false,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c19239634f_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Pondicherry Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "coastal",
+      "french-quarter-walk",
+      "auroville",
+      "promenade-beach"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c19239634e",
+    "slug": "alleppey",
+    "name": "Alleppey",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Backwaters",
+    "state": "Kerala",
+    "region": "Alleppey, Kerala",
+    "lat": 9.4981,
+    "lng": 76.3388,
+    "summary": "Houseboats drifting through coconut-lined backwaters and paddy fields.",
+    "story": "Houseboats drifting through coconut-lined backwaters and paddy fields. Popular activities: Houseboat night, Backwater canoe, Marari beach, Village walk.",
+    "story_te": "",
+    "things_to_do": [
+      "Houseboat night",
+      "Backwater canoe",
+      "Marari beach",
+      "Village walk"
+    ],
+    "best_season": "Nov - Feb",
+    "how_to_reach": "Approx. 1350 km from the nearest regional transport hub in Kerala.",
+    "budget_per_day": 3000,
+    "duration_hours": 4.0,
+    "distance_km": 1350,
+    "crowd_level": "Medium",
+    "safety_score": 90,
+    "avg_rating": 4.7,
+    "hidden": false,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c19239634e_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Alleppey Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "backwaters",
+      "houseboat-night",
+      "backwater-canoe",
+      "marari-beach"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c19239634d",
+    "slug": "udaipur",
+    "name": "Udaipur",
+    "name_te": "",
+    "category": "heritage",
+    "place_type": "Lake Heritage",
+    "state": "Rajasthan",
+    "region": "Udaipur, Rajasthan",
+    "lat": 24.5854,
+    "lng": 73.7125,
+    "summary": "The City of Lakes — marble palaces floating on still water at sunset.",
+    "story": "The City of Lakes — marble palaces floating on still water at sunset. Popular activities: City Palace, Lake Pichola boat, Jag Mandir, Bagore Ki Haveli.",
+    "story_te": "",
+    "things_to_do": [
+      "City Palace",
+      "Lake Pichola boat",
+      "Jag Mandir",
+      "Bagore Ki Haveli"
+    ],
+    "best_season": "Sep - Mar",
+    "how_to_reach": "Approx. 1400 km from the nearest regional transport hub in Rajasthan.",
+    "budget_per_day": 3000,
+    "duration_hours": 4.0,
+    "distance_km": 1400,
+    "crowd_level": "Medium",
+    "safety_score": 86,
+    "avg_rating": 4.7,
+    "hidden": false,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1477586957327-847a0f3f4fe3?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c19239634d_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Udaipur Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "lake-heritage",
+      "city-palace",
+      "lake-pichola-boat",
+      "jag-mandir"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c19239634c",
+    "slug": "nainital",
+    "name": "Nainital",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Lake",
+    "state": "Uttarakhand",
+    "region": "Nainital, Uttarakhand",
+    "lat": 29.3919,
+    "lng": 79.4542,
+    "summary": "A emerald lake ringed by forested hills and colonial-era promenades.",
+    "story": "A emerald lake ringed by forested hills and colonial-era promenades. Popular activities: Naini Lake boating, Snow View Point, Naina Devi temple, Mall Road.",
+    "story_te": "",
+    "things_to_do": [
+      "Naini Lake boating",
+      "Snow View Point",
+      "Naina Devi temple",
+      "Mall Road"
+    ],
+    "best_season": "Mar - Jun",
+    "how_to_reach": "Approx. 1750 km from the nearest regional transport hub in Uttarakhand.",
+    "budget_per_day": 2400,
+    "duration_hours": 4.0,
+    "distance_km": 1750,
+    "crowd_level": "Medium",
+    "safety_score": 88,
+    "avg_rating": 4.5,
+    "hidden": false,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c19239634c_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Nainital Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "lake",
+      "naini-lake-boating",
+      "snow-view-point",
+      "naina-devi-temple"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c19239634b",
+    "slug": "rishikesh",
+    "name": "Rishikesh",
+    "name_te": "",
+    "category": "culture",
+    "place_type": "River & Yoga",
+    "state": "Uttarakhand",
+    "region": "Rishikesh, Uttarakhand",
+    "lat": 30.0869,
+    "lng": 78.2676,
+    "summary": "Ganga aarti, riverside ashrams and world-class rafting rapids.",
+    "story": "Ganga aarti, riverside ashrams and world-class rafting rapids. Popular activities: Ganga Aarti, River rafting, Neer Garh falls, Beatles Ashram.",
+    "story_te": "",
+    "things_to_do": [
+      "Ganga Aarti",
+      "River rafting",
+      "Neer Garh falls",
+      "Beatles Ashram"
+    ],
+    "best_season": "Sep - Apr",
+    "how_to_reach": "Approx. 1800 km from the nearest regional transport hub in Uttarakhand.",
+    "budget_per_day": 1800,
+    "duration_hours": 4.0,
+    "distance_km": 1800,
+    "crowd_level": "Medium",
+    "safety_score": 89,
+    "avg_rating": 4.6,
+    "hidden": false,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c19239634b_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Rishikesh Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "river-&-yoga",
+      "ganga-aarti",
+      "river-rafting",
+      "neer-garh-falls"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c19239634a",
+    "slug": "darjeeling",
+    "name": "Darjeeling",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Hill Station",
+    "state": "West Bengal",
+    "region": "Darjeeling, West Bengal",
+    "lat": 27.036,
+    "lng": 88.2627,
+    "summary": "Tea gardens, the toy train and Kanchenjunga glowing at sunrise.",
+    "story": "Tea gardens, the toy train and Kanchenjunga glowing at sunrise. Popular activities: Tiger Hill sunrise, Toy train, Tea garden tour, Peace Pagoda.",
+    "story_te": "",
+    "things_to_do": [
+      "Tiger Hill sunrise",
+      "Toy train",
+      "Tea garden tour",
+      "Peace Pagoda"
+    ],
+    "best_season": "Mar - May",
+    "how_to_reach": "Approx. 1600 km from the nearest regional transport hub in West Bengal.",
+    "budget_per_day": 2500,
+    "duration_hours": 4.0,
+    "distance_km": 1600,
+    "crowd_level": "Medium",
+    "safety_score": 87,
+    "avg_rating": 4.6,
+    "hidden": false,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1426604966848-d7adac402bff?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c19239634a_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Darjeeling Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "hill-station",
+      "tiger-hill-sunrise",
+      "toy-train",
+      "tea-garden-tour"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c192396349",
+    "slug": "kodaikanal",
+    "name": "Kodaikanal",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Hill Station",
+    "state": "Tamil Nadu",
+    "region": "Kodaikanal, Tamil Nadu",
+    "lat": 10.2381,
+    "lng": 77.4892,
+    "summary": "A cool misty hill town wrapped in pine forests and quiet lake walks.",
+    "story": "A cool misty hill town wrapped in pine forests and quiet lake walks. Popular activities: Kodai Lake, Coaker's Walk, Pillar Rocks, Pine forest.",
+    "story_te": "",
+    "things_to_do": [
+      "Kodai Lake",
+      "Coaker's Walk",
+      "Pillar Rocks",
+      "Pine forest"
+    ],
+    "best_season": "Apr - Jun",
+    "how_to_reach": "Approx. 1200 km from the nearest regional transport hub in Tamil Nadu.",
+    "budget_per_day": 2300,
+    "duration_hours": 4.0,
+    "distance_km": 1200,
+    "crowd_level": "Low",
+    "safety_score": 90,
+    "avg_rating": 4.5,
+    "hidden": true,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c192396349_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Kodaikanal Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "hill-station",
+      "kodai-lake",
+      "coaker's-walk",
+      "pillar-rocks"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c192396348",
+    "slug": "ooty",
+    "name": "Ooty",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Hill Station",
+    "state": "Tamil Nadu",
+    "region": "Ooty, Tamil Nadu",
+    "lat": 11.4102,
+    "lng": 76.695,
+    "summary": "The Queen of Hills — botanical gardens, toy train and eucalyptus slopes.",
+    "story": "The Queen of Hills — botanical gardens, toy train and eucalyptus slopes. Popular activities: Botanical Gardens, Nilgiri toy train, Doddabetta peak, Ooty Lake.",
+    "story_te": "",
+    "things_to_do": [
+      "Botanical Gardens",
+      "Nilgiri toy train",
+      "Doddabetta peak",
+      "Ooty Lake"
+    ],
+    "best_season": "Oct - Jun",
+    "how_to_reach": "Approx. 1150 km from the nearest regional transport hub in Tamil Nadu.",
+    "budget_per_day": 2400,
+    "duration_hours": 4.0,
+    "distance_km": 1150,
+    "crowd_level": "Medium",
+    "safety_score": 88,
+    "avg_rating": 4.5,
+    "hidden": false,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c192396348_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Ooty Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "hill-station",
+      "botanical-gardens",
+      "nilgiri-toy-train",
+      "doddabetta-peak"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c192396347",
+    "slug": "munnar",
+    "name": "Munnar",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Hill Station",
+    "state": "Kerala",
+    "region": "Munnar, Kerala",
+    "lat": 10.0889,
+    "lng": 77.0595,
+    "summary": "Rolling tea estates, misty mornings and Anamudi views in the Western Ghats.",
+    "story": "Rolling tea estates, misty mornings and Anamudi views in the Western Ghats. Popular activities: Tea estate walk, Eravikulam park, Top Station, Mattupetty dam.",
+    "story_te": "",
+    "things_to_do": [
+      "Tea estate walk",
+      "Eravikulam park",
+      "Top Station",
+      "Mattupetty dam"
+    ],
+    "best_season": "Sep - Mar",
+    "how_to_reach": "Approx. 1250 km from the nearest regional transport hub in Kerala.",
+    "budget_per_day": 2600,
+    "duration_hours": 4.0,
+    "distance_km": 1250,
+    "crowd_level": "Medium",
+    "safety_score": 89,
+    "avg_rating": 4.7,
+    "hidden": false,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c192396347_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Munnar Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "hill-station",
+      "tea-estate-walk",
+      "eravikulam-park",
+      "top-station"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c192396346",
+    "slug": "jaipur",
+    "name": "Jaipur",
+    "name_te": "",
+    "category": "heritage",
+    "place_type": "Heritage",
+    "state": "Rajasthan",
+    "region": "Jaipur, Rajasthan",
+    "lat": 26.9124,
+    "lng": 75.7873,
+    "summary": "The Pink City — Hawa Mahal, Amber Fort and endless bazaars of block prints.",
+    "story": "The Pink City — Hawa Mahal, Amber Fort and endless bazaars of block prints. Popular activities: Hawa Mahal, Amber Fort, Johari Bazaar, Nahargarh sunset.",
+    "story_te": "",
+    "things_to_do": [
+      "Hawa Mahal",
+      "Amber Fort",
+      "Johari Bazaar",
+      "Nahargarh sunset"
+    ],
+    "best_season": "Oct - Mar",
+    "how_to_reach": "Approx. 1500 km from the nearest regional transport hub in Rajasthan.",
+    "budget_per_day": 2600,
+    "duration_hours": 4.0,
+    "distance_km": 1500,
+    "crowd_level": "High",
+    "safety_score": 85,
+    "avg_rating": 4.6,
+    "hidden": false,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1524230507669-5ff97982bb5e?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c192396346_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Jaipur Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "heritage",
+      "hawa-mahal",
+      "amber-fort",
+      "johari-bazaar"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c192396345",
+    "slug": "manali",
+    "name": "Manali",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Mountain",
+    "state": "Himachal Pradesh",
+    "region": "Manali, Himachal Pradesh",
+    "lat": 32.2396,
+    "lng": 77.1887,
+    "summary": "Snow peaks, deodar forests and riverside cafés at the gateway to Rohtang.",
+    "story": "Snow peaks, deodar forests and riverside cafés at the gateway to Rohtang. Popular activities: Solang Valley, Hadimba Temple, Old Manali cafés, River rafting.",
+    "story_te": "",
+    "things_to_do": [
+      "Solang Valley",
+      "Hadimba Temple",
+      "Old Manali cafés",
+      "River rafting"
+    ],
+    "best_season": "Mar - Jun",
+    "how_to_reach": "Approx. 2100 km from the nearest regional transport hub in Himachal Pradesh.",
+    "budget_per_day": 2800,
+    "duration_hours": 4.0,
+    "distance_km": 2100,
+    "crowd_level": "High",
+    "safety_score": 88,
+    "avg_rating": 4.6,
+    "hidden": false,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1616942986550-ea6469c08530?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c192396345_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Manali Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "mountain",
+      "solang-valley",
+      "hadimba-temple",
+      "old-manali-cafés"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c192396344",
+    "slug": "goa",
+    "name": "Goa",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Beach",
+    "state": "Goa",
+    "region": "Goa, Goa",
+    "lat": 15.2993,
+    "lng": 74.124,
+    "summary": "Palm-lined beaches, Portuguese churches and sunset shacks along the Arabian Sea.",
+    "story": "Palm-lined beaches, Portuguese churches and sunset shacks along the Arabian Sea. Popular activities: Beach hopping, Old Goa churches, Sunset cruise, Water sports.",
+    "story_te": "",
+    "things_to_do": [
+      "Beach hopping",
+      "Old Goa churches",
+      "Sunset cruise",
+      "Water sports"
+    ],
+    "best_season": "Nov - Feb",
+    "how_to_reach": "Approx. 1100 km from the nearest regional transport hub in Goa.",
+    "budget_per_day": 3200,
+    "duration_hours": 4.0,
+    "distance_km": 1100,
+    "crowd_level": "High",
+    "safety_score": 86,
+    "avg_rating": 4.6,
+    "hidden": false,
+    "alt": "gokarna",
+    "images": [
+      "https://images.unsplash.com/photo-1528181304800-259b08848526?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c192396344_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Goa Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "beach",
+      "beach-hopping",
+      "old-goa-churches",
+      "sunset-cruise"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac09b23000ba9c192396343",
+    "slug": "hyderabad",
+    "name": "Hyderabad",
+    "name_te": "",
+    "category": "heritage",
+    "place_type": "City Heritage",
+    "state": "Telangana",
+    "region": "Hyderabad, Telangana",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "summary": "The City of Pearls — Charminar, Golconda Fort, biryani lanes and a buzzing old city.",
+    "story": "The City of Pearls — Charminar, Golconda Fort, biryani lanes and a buzzing old city. Popular activities: Charminar, Golconda Fort, Biryani trail, Hussain Sagar.",
+    "story_te": "",
+    "things_to_do": [
+      "Charminar",
+      "Golconda Fort",
+      "Biryani trail",
+      "Hussain Sagar"
+    ],
+    "best_season": "Oct - Feb",
+    "how_to_reach": "Approx. 620 km from the nearest regional transport hub in Telangana.",
+    "budget_per_day": 2400,
+    "duration_hours": 4.0,
+    "distance_km": 620,
+    "crowd_level": "High",
+    "safety_score": 84,
+    "avg_rating": 4.5,
+    "hidden": false,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1741545979534-02f59c742730?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac09b23000ba9c192396343_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Hyderabad Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "city-heritage",
+      "charminar",
+      "golconda-fort",
+      "biryani-trail"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6ac091b42d031772bd0d5c21",
+    "slug": "vizag",
+    "name": "Visakhapatnam (Vizag)",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Beach & City",
+    "state": "Andhra Pradesh",
+    "region": "Visakhapatnam (Vizag), Andhra Pradesh",
+    "lat": 17.6868,
+    "lng": 83.2185,
+    "summary": "Andhra's coastal capital — long city beaches, hilltop viewpoints and the Eastern Ghats meeting the Bay of Bengal.",
+    "story": "Andhra's coastal capital — long city beaches, hilltop viewpoints and the Eastern Ghats meeting the Bay of Bengal. Popular activities: RK Beach promenade, Kailasagiri ropeway, Submarine museum, Yarada beach sunset.",
+    "story_te": "",
+    "things_to_do": [
+      "RK Beach promenade",
+      "Kailasagiri ropeway",
+      "Submarine museum",
+      "Yarada beach sunset"
+    ],
+    "best_season": "Oct - Mar",
+    "how_to_reach": "Approx. 0 km from the nearest regional transport hub in Andhra Pradesh.",
+    "budget_per_day": 1800,
+    "duration_hours": 4.0,
+    "distance_km": 0,
+    "crowd_level": "High",
+    "safety_score": 88,
+    "avg_rating": 4.5,
+    "hidden": false,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80&auto=format&fit=crop",
+      "/img/6ac091b42d031772bd0d5c21_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Visakhapatnam (Vizag) Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "beach-&-city",
+      "rk-beach-promenade",
+      "kailasagiri-ropeway",
+      "submarine-museum"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6a9db674f05a5ee5345707d1",
+    "slug": "vengurla",
+    "name": "Vengurla",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Hidden Gem",
+    "state": "Maharashtra",
+    "region": "Vengurla, Maharashtra",
+    "lat": 16.17,
+    "lng": 73.64,
+    "summary": "Secret coves and a lighthouse beach where you may be the only footprints.",
+    "story": "Secret coves and a lighthouse beach where you may be the only footprints. Popular activities: Lighthouse beach, Burnt Island snorkel, Cashew farm, Fishing with locals.",
+    "story_te": "",
+    "things_to_do": [
+      "Lighthouse beach",
+      "Burnt Island snorkel",
+      "Cashew farm",
+      "Fishing with locals"
+    ],
+    "best_season": "Nov - Feb",
+    "how_to_reach": "Approx. 460 km from the nearest regional transport hub in Maharashtra.",
+    "budget_per_day": 420,
+    "duration_hours": 4.0,
+    "distance_km": 460,
+    "crowd_level": "Low",
+    "safety_score": 91,
+    "avg_rating": 4.6,
+    "hidden": true,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=1200&q=80&auto=format&fit=crop",
+      "/img/6a9db674f05a5ee5345707d1_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Vengurla Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "hidden-gem",
+      "lighthouse-beach",
+      "burnt-island-snorkel",
+      "cashew-farm"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6a9db674f05a5ee5345707d0",
+    "slug": "konkan",
+    "name": "Konkan Coast",
+    "name_te": "",
+    "category": "heritage",
+    "place_type": "Beach",
+    "state": "Maharashtra",
+    "region": "Konkan Coast, Maharashtra",
+    "lat": 16.99,
+    "lng": 73.31,
+    "summary": "Pristine beaches, sea forts and coconut groves along the unspoilt coast.",
+    "story": "Pristine beaches, sea forts and coconut groves along the unspoilt coast. Popular activities: Ganpatipule beach, Sea fort kayak, Alphonso orchard, Sunset boat ride.",
+    "story_te": "",
+    "things_to_do": [
+      "Ganpatipule beach",
+      "Sea fort kayak",
+      "Alphonso orchard",
+      "Sunset boat ride"
+    ],
+    "best_season": "Nov - Feb",
+    "how_to_reach": "Approx. 410 km from the nearest regional transport hub in Maharashtra.",
+    "budget_per_day": 500,
+    "duration_hours": 4.0,
+    "distance_km": 410,
+    "crowd_level": "Medium",
+    "safety_score": 89,
+    "avg_rating": 4.5,
+    "hidden": false,
+    "alt": "vengurla",
+    "images": [
+      "https://images.unsplash.com/photo-1528181304800-259b08848526?w=1200&q=80&auto=format&fit=crop",
+      "/img/6a9db674f05a5ee5345707d0_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Konkan Coast Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "beach",
+      "ganpatipule-beach",
+      "sea-fort-kayak",
+      "alphonso-orchard"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6a9db674f05a5ee5345707cf",
+    "slug": "madikeri-hidden",
+    "name": "Nalknad Palace Trails",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Hidden Gem",
+    "state": "Karnataka",
+    "region": "Nalknad Palace Trails, Karnataka",
+    "lat": 12.5,
+    "lng": 75.68,
+    "summary": "Forgotten forest trails around a 1792 hunting lodge — Coorg without the crowds.",
+    "story": "Forgotten forest trails around a 1792 hunting lodge — Coorg without the crowds. Popular activities: Nalknad Palace, Forest trek, Birdwatching, Kodava cuisine.",
+    "story_te": "",
+    "things_to_do": [
+      "Nalknad Palace",
+      "Forest trek",
+      "Birdwatching",
+      "Kodava cuisine"
+    ],
+    "best_season": "Oct - Mar",
+    "how_to_reach": "Approx. 280 km from the nearest regional transport hub in Karnataka.",
+    "budget_per_day": 480,
+    "duration_hours": 4.0,
+    "distance_km": 280,
+    "crowd_level": "Low",
+    "safety_score": 92,
+    "avg_rating": 4.4,
+    "hidden": true,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=80&auto=format&fit=crop",
+      "/img/6a9db674f05a5ee5345707cf_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Nalknad Palace Trails Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "hidden-gem",
+      "nalknad-palace",
+      "forest-trek",
+      "birdwatching"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6a9db674f05a5ee5345707ce",
+    "slug": "coorg",
+    "name": "Coorg",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Hill Station",
+    "state": "Karnataka",
+    "region": "Coorg, Karnataka",
+    "lat": 12.4244,
+    "lng": 75.7382,
+    "summary": "Misty coffee hills, waterfalls and Kodava heritage in the Western Ghats.",
+    "story": "Misty coffee hills, waterfalls and Kodava heritage in the Western Ghats. Popular activities: Abbey Falls, Coffee plantation stay, Namdroling monastery, Tadiandamol trek.",
+    "story_te": "",
+    "things_to_do": [
+      "Abbey Falls",
+      "Coffee plantation stay",
+      "Namdroling monastery",
+      "Tadiandamol trek"
+    ],
+    "best_season": "Oct - Mar",
+    "how_to_reach": "Approx. 260 km from the nearest regional transport hub in Karnataka.",
+    "budget_per_day": 550,
+    "duration_hours": 4.0,
+    "distance_km": 260,
+    "crowd_level": "Medium",
+    "safety_score": 90,
+    "avg_rating": 4.5,
+    "hidden": false,
+    "alt": "madikeri-hidden",
+    "images": [
+      "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?w=1200&q=80&auto=format&fit=crop",
+      "/img/6a9db674f05a5ee5345707ce_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Coorg Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "hill-station",
+      "abbey-falls",
+      "coffee-plantation-stay",
+      "namdroling-monastery"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6a9db674f05a5ee5345707cd",
+    "slug": "langza",
+    "name": "Langza",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Hidden Gem",
+    "state": "Himachal Pradesh",
+    "region": "Langza, Himachal Pradesh",
+    "lat": 32.24,
+    "lng": 78.1,
+    "summary": "A fossil-rich village beneath a giant Buddha statue, far from the Spiti crowds.",
+    "story": "A fossil-rich village beneath a giant Buddha statue, far from the Spiti crowds. Popular activities: Fossil hunting, Buddha statue viewpoint, Sea buckthorn trail, Homestay cooking.",
+    "story_te": "",
+    "things_to_do": [
+      "Fossil hunting",
+      "Buddha statue viewpoint",
+      "Sea buckthorn trail",
+      "Homestay cooking"
+    ],
+    "best_season": "Jun - Sep",
+    "how_to_reach": "Approx. 1950 km from the nearest regional transport hub in Himachal Pradesh.",
+    "budget_per_day": 650,
+    "duration_hours": 4.0,
+    "distance_km": 1950,
+    "crowd_level": "Low",
+    "safety_score": 88,
+    "avg_rating": 4.6,
+    "hidden": true,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1200&q=80&auto=format&fit=crop",
+      "/img/6a9db674f05a5ee5345707cd_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Langza Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "hidden-gem",
+      "fossil-hunting",
+      "buddha-statue-viewpoint",
+      "sea-buckthorn-trail"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6a9db674f05a5ee5345707cc",
+    "slug": "spiti",
+    "name": "Spiti Valley",
+    "name_te": "",
+    "category": "culture",
+    "place_type": "Adventure",
+    "state": "Himachal Pradesh",
+    "region": "Spiti Valley, Himachal Pradesh",
+    "lat": 32.219,
+    "lng": 78.073,
+    "summary": "A cold desert mountain valley of ancient monasteries and starlit skies.",
+    "story": "A cold desert mountain valley of ancient monasteries and starlit skies. Popular activities: Key Monastery, Chandratal lake, Fossil village, Stargazing camp.",
+    "story_te": "",
+    "things_to_do": [
+      "Key Monastery",
+      "Chandratal lake",
+      "Fossil village",
+      "Stargazing camp"
+    ],
+    "best_season": "May - Sep",
+    "how_to_reach": "Approx. 1900 km from the nearest regional transport hub in Himachal Pradesh.",
+    "budget_per_day": 800,
+    "duration_hours": 4.0,
+    "distance_km": 1900,
+    "crowd_level": "Low",
+    "safety_score": 87,
+    "avg_rating": 4.8,
+    "hidden": false,
+    "alt": "langza",
+    "images": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80&auto=format&fit=crop",
+      "/img/6a9db674f05a5ee5345707cc_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Spiti Valley Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "adventure",
+      "key-monastery",
+      "chandratal-lake",
+      "fossil-village"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6a9db674f05a5ee5345707cb",
+    "slug": "nongstoin",
+    "name": "Nongstoin",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Hidden Gem",
+    "state": "Meghalaya",
+    "region": "Nongstoin, Meghalaya",
+    "lat": 25.51,
+    "lng": 91.27,
+    "summary": "Undiscovered plateaus, monolith gardens and crystal-clear river pools.",
+    "story": "Undiscovered plateaus, monolith gardens and crystal-clear river pools. Popular activities: Symper rock climb, Rilbong viewpoint, River picnic, Local Khasi meal.",
+    "story_te": "",
+    "things_to_do": [
+      "Symper rock climb",
+      "Rilbong viewpoint",
+      "River picnic",
+      "Local Khasi meal"
+    ],
+    "best_season": "Nov - Apr",
+    "how_to_reach": "Approx. 2200 km from the nearest regional transport hub in Meghalaya.",
+    "budget_per_day": 700,
+    "duration_hours": 4.0,
+    "distance_km": 2200,
+    "crowd_level": "Low",
+    "safety_score": 93,
+    "avg_rating": 4.6,
+    "hidden": true,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=1200&q=80&auto=format&fit=crop",
+      "/img/6a9db674f05a5ee5345707cb_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Nongstoin Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "hidden-gem",
+      "symper-rock-climb",
+      "rilbong-viewpoint",
+      "river-picnic"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6a9db674f05a5ee5345707ca",
+    "slug": "meghalaya",
+    "name": "Meghalaya",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Nature",
+    "state": "Meghalaya",
+    "region": "Meghalaya, Meghalaya",
+    "lat": 25.5788,
+    "lng": 91.8933,
+    "summary": "Living root bridges, waterfalls and the wettest landscapes on Earth.",
+    "story": "Living root bridges, waterfalls and the wettest landscapes on Earth. Popular activities: Double root bridge trek, Dawki river, Mawlynnong village, Cherrapunjee falls.",
+    "story_te": "",
+    "things_to_do": [
+      "Double root bridge trek",
+      "Dawki river",
+      "Mawlynnong village",
+      "Cherrapunjee falls"
+    ],
+    "best_season": "Nov - Apr",
+    "how_to_reach": "Approx. 2100 km from the nearest regional transport hub in Meghalaya.",
+    "budget_per_day": 900,
+    "duration_hours": 4.0,
+    "distance_km": 2100,
+    "crowd_level": "Medium",
+    "safety_score": 91,
+    "avg_rating": 4.9,
+    "hidden": false,
+    "alt": "nongstoin",
+    "images": [
+      "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1200&q=80&auto=format&fit=crop",
+      "/img/6a9db674f05a5ee5345707ca_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Meghalaya Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "nature",
+      "double-root-bridge-trek",
+      "dawki-river",
+      "mawlynnong-village"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6a9db674f05a5ee5345707c9",
+    "slug": "anegundi",
+    "name": "Anegundi",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Hidden Gem",
+    "state": "Karnataka",
+    "region": "Anegundi, Karnataka",
+    "lat": 15.35,
+    "lng": 76.5,
+    "summary": "A quiet village across the river from Hampi — same history, a tenth of the crowds.",
+    "story": "A quiet village across the river from Hampi — same history, a tenth of the crowds. Popular activities: Ancient caves, Laxmi temple, Riverside lunch, Paddy field walks.",
+    "story_te": "",
+    "things_to_do": [
+      "Ancient caves",
+      "Laxmi temple",
+      "Riverside lunch",
+      "Paddy field walks"
+    ],
+    "best_season": "Oct - Feb",
+    "how_to_reach": "Approx. 350 km from the nearest regional transport hub in Karnataka.",
+    "budget_per_day": 450,
+    "duration_hours": 4.0,
+    "distance_km": 350,
+    "crowd_level": "Low",
+    "safety_score": 90,
+    "avg_rating": 4.5,
+    "hidden": true,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&q=80&auto=format&fit=crop",
+      "/img/6a9db674f05a5ee5345707c9_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Anegundi Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "hidden-gem",
+      "ancient-caves",
+      "laxmi-temple",
+      "riverside-lunch"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6a9db674f05a5ee5345707c8",
+    "slug": "hampi",
+    "name": "Hampi",
+    "name_te": "",
+    "category": "heritage",
+    "place_type": "Heritage",
+    "state": "Karnataka",
+    "region": "Hampi, Karnataka",
+    "lat": 15.335,
+    "lng": 76.46,
+    "summary": "Ruins of a lost empire scattered among surreal boulder-strewn landscapes.",
+    "story": "Ruins of a lost empire scattered among surreal boulder-strewn landscapes. Popular activities: Virupaksha Temple, Coracle ride, Sunset at Hemakuta, Boulder trekking.",
+    "story_te": "",
+    "things_to_do": [
+      "Virupaksha Temple",
+      "Coracle ride",
+      "Sunset at Hemakuta",
+      "Boulder trekking"
+    ],
+    "best_season": "Oct - Feb",
+    "how_to_reach": "Approx. 340 km from the nearest regional transport hub in Karnataka.",
+    "budget_per_day": 600,
+    "duration_hours": 4.0,
+    "distance_km": 340,
+    "crowd_level": "High",
+    "safety_score": 88,
+    "avg_rating": 4.8,
+    "hidden": false,
+    "alt": "anegundi",
+    "images": [
+      "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=80&auto=format&fit=crop",
+      "/img/6a9db674f05a5ee5345707c8_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Hampi Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "heritage",
+      "virupaksha-temple",
+      "coracle-ride",
+      "sunset-at-hemakuta"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6a9db674f05a5ee5345707c7",
+    "slug": "lambasingi",
+    "name": "Lambasingi",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Hidden Gem",
+    "state": "Andhra Pradesh",
+    "region": "Lambasingi, Andhra Pradesh",
+    "lat": 17.8167,
+    "lng": 82.4167,
+    "summary": "The \"Kashmir of Andhra\" — frost-kissed mornings, pepper farms and almost no crowds.",
+    "story": "The \"Kashmir of Andhra\" — frost-kissed mornings, pepper farms and almost no crowds. Popular activities: Sunrise viewpoint, Pepper farm walk, Local strawberry picking, Bonfire evening.",
+    "story_te": "",
+    "things_to_do": [
+      "Sunrise viewpoint",
+      "Pepper farm walk",
+      "Local strawberry picking",
+      "Bonfire evening"
+    ],
+    "best_season": "Winter",
+    "how_to_reach": "Approx. 138 km from the nearest regional transport hub in Andhra Pradesh.",
+    "budget_per_day": 500,
+    "duration_hours": 4.0,
+    "distance_km": 138,
+    "crowd_level": "Low",
+    "safety_score": 95,
+    "avg_rating": 4.7,
+    "hidden": true,
+    "alt": "",
+    "images": [
+      "https://images.unsplash.com/photo-1426604966848-d7adac402bff?w=1200&q=80&auto=format&fit=crop",
+      "/img/6a9db674f05a5ee5345707c7_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Lambasingi Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "hidden-gem",
+      "sunrise-viewpoint",
+      "pepper-farm-walk",
+      "local-strawberry-picking"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "6a9db674f05a5ee5345707c6",
+    "slug": "araku",
+    "name": "Araku Valley",
+    "name_te": "",
+    "category": "nature",
+    "place_type": "Hill Station",
+    "state": "Andhra Pradesh",
+    "region": "Araku Valley, Andhra Pradesh",
+    "lat": 18.3273,
+    "lng": 82.8739,
+    "summary": "Misty coffee plantations, tribal heritage and winding valley roads just beyond Visakhapatnam.",
+    "story": "Misty coffee plantations, tribal heritage and winding valley roads just beyond Visakhapatnam. Popular activities: Coffee estate tour, Borra Caves visit, Tribal museum, Valley viewpoint sunset.",
+    "story_te": "",
+    "things_to_do": [
+      "Coffee estate tour",
+      "Borra Caves visit",
+      "Tribal museum",
+      "Valley viewpoint sunset"
+    ],
+    "best_season": "Oct - Mar",
+    "how_to_reach": "Approx. 120 km from the nearest regional transport hub in Andhra Pradesh.",
+    "budget_per_day": 400,
+    "duration_hours": 4.0,
+    "distance_km": 120,
+    "crowd_level": "Medium",
+    "safety_score": 92,
+    "avg_rating": 4.6,
+    "hidden": false,
+    "alt": "lambasingi",
+    "images": [
+      "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=1200&q=80&auto=format&fit=crop",
+      "/img/6a9db674f05a5ee5345707c6_1.svg"
+    ],
+    "image_credit": "SmartYatra Exported Destination Catalog",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "Araku Valley Local Community Desk",
+        "contact": "Available via Guides directory",
+        "note": "Regional trail & cultural information"
+      }
+    ],
+    "tags": [
+      "hill-station",
+      "coffee-estate-tour",
+      "borra-caves-visit",
+      "tribal-museum"
+    ],
+    "status": "verified",
+    "source": "smartyatra-export",
+    "submitted_by": "SmartYatra Catalog"
+  },
+  {
+    "id": "gem_057",
+    "name": "dkwekfjwke",
+    "name_te": "",
+    "category": "village",
+    "state": "Telangana",
+    "region": "wehwieuh",
+    "lat": 17.65,
+    "lng": 79.45,
+    "summary": "eidiwjeojfweif",
+    "story": "ejfwef",
+    "story_te": "weoowjeofuiwe",
+    "best_season": "Oct-Feb",
+    "how_to_reach": "fwolefrjwerf",
+    "budget_per_day": 800,
+    "duration_hours": 3.0,
+    "images": [
+      "/img/gem_057_1.svg",
+      "/img/gem_057_2.svg"
+    ],
+    "image_credit": "Contributed by Atchyutha Rao Ika",
+    "local_support": [
+      {
+        "type": "stay",
+        "name": "wefjwehfjowerf",
+        "contact": "fhwrjfuhergf",
+        "note": "Community-submitted local support contact"
+      }
+    ],
+    "tags": [
+      "effojweifjo"
+    ],
+    "status": "rejected",
+    "source": "community",
+    "submitted_by": "Atchyutha Rao Ika"
+  },
+  {
+    "id": "gem_058",
+    "name": "welkjwler",
+    "name_te": "",
+    "category": "heritage",
+    "state": "Telangana",
+    "region": "efwjr",
+    "lat": 17.65,
+    "lng": 79.45,
+    "summary": "fjwerofjweroifuh",
+    "story": "rfjwrofjrlogifrojgr",
+    "story_te": "efjwrolghjrolghrug",
+    "best_season": "Oct-Feb",
+    "how_to_reach": "erfjlrgrjghlorgjh",
+    "budget_per_day": 800,
+    "duration_hours": 3.0,
+    "images": [
+      "/uploads/upload_gem_058_be9c50.jpg"
+    ],
+    "image_credit": "Contributed by Atchyutha Rao Ika",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "rjjfgrejghf",
+        "contact": "rjhgfrekjgfhrje",
+        "note": "Community-submitted local support contact"
+      }
+    ],
+    "tags": [
+      "rfjlwrogjrlo"
+    ],
+    "status": "verified",
+    "source": "community",
+    "submitted_by": "Atchyutha Rao Ika"
+  },
+  {
+    "id": "gem_059",
+    "name": "Likith",
+    "name_te": "",
+    "category": "heritage",
+    "state": "Telangana",
+    "region": "esdjelsod",
+    "lat": 17.65,
+    "lng": 79.45,
+    "summary": "eidiwjeojfweif",
+    "story": "elewflwfjlwfjw",
+    "story_te": "flweflewkfjwelgj",
+    "best_season": "Oct-Feb",
+    "how_to_reach": "fwljfhwlekgjfwhl",
+    "budget_per_day": 800,
+    "duration_hours": 3.0,
+    "images": [
+      "/uploads/upload_gem_059_34b243.jpg"
+    ],
+    "image_credit": "Contributed by Atchyuth",
+    "local_support": [
+      {
+        "type": "guide",
+        "name": "jjghwrkjgwhr",
+        "contact": "fwjhfwjg",
+        "note": "Community-submitted local support contact"
+      }
+    ],
+    "tags": [
+      "wlrfjgwlrgkj"
+    ],
+    "status": "rejected",
+    "source": "community",
+    "submitted_by": "Atchyuth"
+  }
+]

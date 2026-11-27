@@ -1,0 +1,107 @@
+[
+  {
+    "id": "SOS-6ABFA2",
+    "user_id": "usr_0903a2d176e6",
+    "user_name": "Atchyutha Rao Ika",
+    "status": "active",
+    "emergency_contact_notified": false,
+    "contacts_count": 0,
+    "location": {
+      "lat": 18.2887677,
+      "lng": 83.8248103,
+      "accuracy": null,
+      "address": ""
+    },
+    "lat": 18.2887677,
+    "lng": 83.8248103,
+    "place_name": "",
+    "trip_id": "",
+    "source": "manual",
+    "message": "EMERGENCY SOS ALERT! I need assistance.\nTraveller: Atchyutha Rao Ika (atchyutharaoika@gmail.com)\nMy GPS Location: 18.28877, 83.82481 (https://www.openstreetmap.org/?mlat=18.2887677&mlon=83.8248103#map=16/18.2887677/83.8248103)",
+    "created_at": "2026-11-27T12:42:16.755481+00:00"
+  },
+  {
+    "id": "SOS-2EF141",
+    "user_id": "usr_0903a2d176e6",
+    "user_name": "Atchyutha Rao Ika",
+    "status": "active",
+    "emergency_contact_notified": false,
+    "contacts_count": 0,
+    "location": {
+      "lat": 18.2887677,
+      "lng": 83.8248103,
+      "accuracy": null,
+      "address": ""
+    },
+    "lat": 18.2887677,
+    "lng": 83.8248103,
+    "place_name": "",
+    "trip_id": "",
+    "source": "manual",
+    "message": "EMERGENCY SOS ALERT! I need assistance.\nTraveller: Atchyutha Rao Ika (atchyutharaoika@gmail.com)\nMy GPS Location: 18.28877, 83.82481 (https://www.openstreetmap.org/?mlat=18.2887677&mlon=83.8248103#map=16/18.2887677/83.8248103)",
+    "created_at": "2026-11-27T12:42:20.289579+00:00"
+  },
+  {
+    "id": "SOS-12BB6A",
+    "user_id": "usr_0903a2d176e6",
+    "user_name": "Atchyutha Rao Ika",
+    "status": "active",
+    "emergency_contact_notified": false,
+    "contacts_count": 0,
+    "location": {
+      "lat": 18.2887677,
+      "lng": 83.8248103,
+      "accuracy": null,
+      "address": ""
+    },
+    "lat": 18.2887677,
+    "lng": 83.8248103,
+    "place_name": "",
+    "trip_id": "",
+    "source": "manual",
+    "message": "EMERGENCY SOS ALERT! I need assistance.\nTraveller: Atchyutha Rao Ika (atchyutharaoika@gmail.com)\nMy GPS Location: 18.28877, 83.82481 (https://www.openstreetmap.org/?mlat=18.2887677&mlon=83.8248103#map=16/18.2887677/83.8248103)",
+    "created_at": "2026-11-27T12:49:35.010685+00:00"
+  },
+  {
+    "id": "SOS-AF0071",
+    "user_id": "usr_0903a2d176e6",
+    "user_name": "Atchyutha Rao Ika",
+    "status": "active",
+    "emergency_contact_notified": false,
+    "contacts_count": 0,
+    "location": {
+      "lat": 18.2887677,
+      "lng": 83.8248103,
+      "accuracy": null,
+      "address": ""
+    },
+    "lat": 18.2887677,
+    "lng": 83.8248103,
+    "place_name": "",
+    "trip_id": "",
+    "source": "manual",
+    "message": "EMERGENCY SOS ALERT! I need assistance.\nTraveller: Atchyutha Rao Ika (atchyutharaoika@gmail.com)\nMy GPS Location: 18.28877, 83.82481 (https://www.openstreetmap.org/?mlat=18.2887677&mlon=83.8248103#map=16/18.2887677/83.8248103)",
+    "created_at": "2026-11-27T12:49:36.486420+00:00"
+  },
+  {
+    "id": "SOS-CF53CE",
+    "user_id": "usr_0903a2d176e6",
+    "user_name": "Atchyutha Rao Ika",
+    "status": "active",
+    "emergency_contact_notified": true,
+    "contacts_count": 1,
+    "location": {
+      "lat": 18.2887677,
+      "lng": 83.8248103,
+      "accuracy": null,
+      "address": ""
+    },
+    "lat": 18.2887677,
+    "lng": 83.8248103,
+    "place_name": "",
+    "trip_id": "",
+    "source": "manual",
+    "message": "EMERGENCY SOS ALERT! I need assistance.\nTraveller: Atchyutha Rao Ika (atchyutharaoika@gmail.com)\nMy GPS Location: 18.28877, 83.82481 (https://www.openstreetmap.org/?mlat=18.2887677&mlon=83.8248103#map=16/18.2887677/83.8248103)",
+    "created_at": "2026-11-27T17:27:01.239251+00:00"
+  }
+]

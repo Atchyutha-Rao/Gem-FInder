@@ -1,0 +1,388 @@
+/* Hallmark · v2.0.0 | theme: editorial-trail | genre: editorial | shape: app screen | signature: interactive-trail-map */
+/* critique: warm-tinted ivory surfaces, token-only colours and fonts, clip overflow, instant focus-visible */
+
+:root {
+  --ut-bg: #F7F6F3;
+  --ut-surface: #FDFCFA;
+  --ut-surface-alt: #EFECE6;
+  --ut-border: #E5E0D7;
+  --ut-border-strong: #D6CFC3;
+  --ut-ink: #18181B;
+  --ut-muted: #64625D;
+  --ut-sidebar-bg: #FDFCFA;
+  --ut-topbar-bg: #FDFCFA;
+  --ut-on-dark: #FAF8F5;
+  --ut-shadow: 0 1px 2px rgba(24, 24, 27, 0.04), 0 8px 24px -12px rgba(24, 24, 27, 0.08);
+  --ut-shadow-hover: 0 12px 32px -12px rgba(24, 24, 27, 0.16);
+  --ut-pin-shadow: 0 4px 12px rgba(28, 25, 23, 0.32);
+  --ut-popup-shadow: 0 16px 36px rgba(28, 25, 23, 0.2);
+  --ut-sos-ring: rgba(220, 38, 38, 0.45);
+  --ut-hero-glow-a: rgba(200, 75, 49, 0.09);
+  --ut-hero-glow-b: rgba(22, 74, 55, 0.1);
+  --ut-auth-glow-a: rgba(200, 75, 49, 0.28);
+  --ut-auth-glow-b: rgba(22, 74, 55, 0.35);
+  --ut-auth-bg-a: #16191D;
+  --ut-auth-bg-b: #1D2522;
+  --ut-auth-bg-c: #1A1614;
+  --ut-font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --ut-font-telugu: 'Noto Sans Telugu', 'Plus Jakarta Sans', sans-serif;
+  --ut-dark-emerald-bg: rgba(22, 74, 55, 0.24);
+  --ut-dark-amber-bg: rgba(201, 130, 30, 0.16);
+  --ut-dark-orange-bg: rgba(200, 75, 49, 0.18);
+  --ut-dark-rose-bg: rgba(190, 18, 60, 0.18);
+  --ut-dark-teal-bg: rgba(15, 118, 110, 0.2);
+  --ut-dark-red-bg: rgba(185, 28, 28, 0.2);
+  --ut-dark-text-soft: #E5E7EB;
+  --ut-dark-text-emerald: #6EE7B7;
+  --ut-dark-text-amber: #FCD34D;
+  --ut-dark-text-red: #FCA5A5;
+  --ut-dark-btn: #27272A;
+  --cream: var(--ut-bg);
+  --sand: var(--ut-surface-alt);
+  --terracotta: #C84B31;
+  --forest: #164A37;
+  --ochre: #C9821E;
+  --espresso: var(--ut-ink);
+
+  /* Dark mode palette tokens */
+  --ut-d-bg: #0E1116;
+  --ut-d-surface: #161B22;
+  --ut-d-surface-alt: #1F2630;
+  --ut-d-border: #2B3340;
+  --ut-d-border-strong: #394454;
+  --ut-d-ink: #F3F4F6;
+  --ut-d-muted: #9CA3AF;
+  --ut-d-sidebar-bg: #12161D;
+  --ut-d-topbar-bg: #12161D;
+  --ut-d-shadow: 0 1px 2px rgba(0, 0, 0, 0.35), 0 8px 24px -12px rgba(0, 0, 0, 0.5);
+  --ut-d-shadow-hover: 0 14px 32px -12px rgba(0, 0, 0, 0.65);
+}
+
+html.dark {
+  --ut-bg: var(--ut-d-bg);
+  --ut-surface: var(--ut-d-surface);
+  --ut-surface-alt: var(--ut-d-surface-alt);
+  --ut-border: var(--ut-d-border);
+  --ut-border-strong: var(--ut-d-border-strong);
+  --ut-ink: var(--ut-d-ink);
+  --ut-muted: var(--ut-d-muted);
+  --ut-sidebar-bg: var(--ut-d-sidebar-bg);
+  --ut-topbar-bg: var(--ut-d-topbar-bg);
+  --ut-shadow: var(--ut-d-shadow);
+  --ut-shadow-hover: var(--ut-d-shadow-hover);
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: clip;
+}
+
+body {
+  background-color: var(--ut-bg);
+  color: var(--ut-ink);
+  overflow-x: clip;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+h1, h2, h3, .font-display {
+  overflow-wrap: break-word;
+  min-width: 0;
+  text-wrap: balance;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid var(--terracotta);
+  outline-offset: 2px;
+  transition: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 1ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Dark mode surface & border overrides for utility classes */
+html.dark .bg-white {
+  background-color: var(--ut-surface) !important;
+}
+html.dark .bg-white\/95,
+html.dark .bg-white\/92 {
+  background-color: var(--ut-topbar-bg) !important;
+}
+html.dark .border-\[\#E7E0D5\],
+html.dark .border-\[\#E2D9CC\],
+html.dark .border-\[\#EDE6DB\],
+html.dark .border-\[\#F0EAE0\] {
+  border-color: var(--ut-border) !important;
+}
+html.dark .bg-emerald-50 {
+  background-color: var(--ut-dark-emerald-bg) !important;
+}
+html.dark .bg-amber-50,
+html.dark .bg-amber-50\/70 {
+  background-color: var(--ut-dark-amber-bg) !important;
+}
+html.dark .bg-orange-50 {
+  background-color: var(--ut-dark-orange-bg) !important;
+}
+html.dark .bg-rose-50 {
+  background-color: var(--ut-dark-rose-bg) !important;
+}
+html.dark .bg-teal-50 {
+  background-color: var(--ut-dark-teal-bg) !important;
+}
+html.dark .bg-red-50 {
+  background-color: var(--ut-dark-red-bg) !important;
+}
+html.dark .text-amber-900,
+html.dark .text-emerald-900,
+html.dark .text-orange-900,
+html.dark .text-rose-900,
+html.dark .text-teal-900 {
+  color: var(--ut-dark-text-soft) !important;
+}
+html.dark .text-emerald-800 {
+  color: var(--ut-dark-text-emerald) !important;
+}
+html.dark .text-amber-800 {
+  color: var(--ut-dark-text-amber) !important;
+}
+html.dark .text-red-700,
+html.dark .text-red-900 {
+  color: var(--ut-dark-text-red) !important;
+}
+html.dark input,
+html.dark select,
+html.dark textarea {
+  color: var(--ut-ink);
+}
+html.dark .bg-espresso.text-white,
+html.dark .bg-espresso {
+  background-color: var(--ut-dark-btn) !important;
+  color: var(--ut-on-dark) !important;
+}
+html.dark .leaflet-tile-pane {
+  filter: brightness(0.88) contrast(1.05);
+}
+
+.font-telugu {
+  font-family: var(--ut-font-telugu);
+  line-height: 1.85;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+@keyframes fadeSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes modalPopIn {
+  from {
+    opacity: 0;
+    transform: scale(0.96) translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+@keyframes floatSlow {
+  0%, 100% {
+    transform: translateY(0px) translateX(0px);
+  }
+  50% {
+    transform: translateY(-10px) translateX(6px);
+  }
+}
+
+@keyframes popBounce {
+  0% { transform: scale(1); }
+  45% { transform: scale(1.24); }
+  100% { transform: scale(1); }
+}
+
+.ut-fade-in {
+  animation: fadeSlideUp 0.34s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.ut-modal-enter {
+  animation: modalPopIn 0.32s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.ut-float-slow {
+  animation: floatSlow 6s ease-in-out infinite;
+}
+
+.ut-pop-once {
+  animation: popBounce 0.32s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.ut-grid-stagger > * {
+  animation: fadeSlideUp 0.4s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.ut-grid-stagger > *:nth-child(1) { animation-delay: 20ms; }
+.ut-grid-stagger > *:nth-child(2) { animation-delay: 50ms; }
+.ut-grid-stagger > *:nth-child(3) { animation-delay: 80ms; }
+.ut-grid-stagger > *:nth-child(4) { animation-delay: 110ms; }
+.ut-grid-stagger > *:nth-child(5) { animation-delay: 140ms; }
+.ut-grid-stagger > *:nth-child(6) { animation-delay: 170ms; }
+.ut-grid-stagger > *:nth-child(7) { animation-delay: 200ms; }
+.ut-grid-stagger > *:nth-child(8) { animation-delay: 230ms; }
+.ut-grid-stagger > *:nth-child(9) { animation-delay: 260ms; }
+.ut-grid-stagger > *:nth-child(10) { animation-delay: 290ms; }
+.ut-grid-stagger > *:nth-child(11) { animation-delay: 320ms; }
+.ut-grid-stagger > *:nth-child(12) { animation-delay: 350ms; }
+
+@keyframes pulseRing {
+  0% { box-shadow: 0 0 0 0 var(--ut-sos-ring); }
+  70% { box-shadow: 0 0 0 10px transparent; }
+  100% { box-shadow: 0 0 0 0 transparent; }
+}
+
+.ut-sos-pulse {
+  animation: pulseRing 2.2s infinite;
+}
+
+@keyframes barGrowX {
+  from { transform: scaleX(0); }
+  to { transform: scaleX(1); }
+}
+
+.ut-bar-grow {
+  transform-origin: 0 50%;
+  animation: barGrowX 0.65s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.ut-card-lift {
+  box-shadow: var(--ut-shadow);
+  transition: transform 0.24s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.24s ease, border-color 0.24s ease;
+}
+.ut-card-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--ut-shadow-hover);
+  border-color: var(--ut-border-strong);
+}
+.ut-card-lift:active {
+  transform: translateY(-1px) scale(0.995);
+}
+
+.ut-btn-interactive {
+  transition: transform 0.18s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.18s ease, background-color 0.18s ease;
+}
+.ut-btn-interactive:hover {
+  transform: translateY(-1.5px);
+}
+.ut-btn-interactive:active {
+  transform: scale(0.97);
+}
+
+.ut-nav-item {
+  transition: transform 0.16s ease, background-color 0.18s ease, color 0.18s ease;
+}
+.ut-nav-item:hover {
+  transform: translateX(3px);
+}
+
+.ut-fullauth-bg {
+  background:
+    radial-gradient(circle at 15% 20%, var(--ut-auth-glow-a), transparent 45%),
+    radial-gradient(circle at 85% 75%, var(--ut-auth-glow-b), transparent 50%),
+    linear-gradient(135deg, var(--ut-auth-bg-a) 0%, var(--ut-auth-bg-b) 55%, var(--ut-auth-bg-c) 100%);
+}
+
+.ut-panel {
+  background-color: var(--ut-surface);
+  border: 1px solid var(--ut-border);
+  box-shadow: var(--ut-shadow);
+}
+
+.ut-sidebar {
+  background-color: var(--ut-sidebar-bg);
+  border-right: 1px solid var(--ut-border);
+}
+
+.ut-topbar {
+  background-color: var(--ut-topbar-bg);
+  border-bottom: 1px solid var(--ut-border);
+}
+
+.ut-hero-mesh {
+  background:
+    radial-gradient(circle at 10% 15%, var(--ut-hero-glow-a), transparent 40%),
+    radial-gradient(circle at 88% 20%, var(--ut-hero-glow-b), transparent 45%),
+    linear-gradient(180deg, var(--ut-surface) 0%, var(--ut-bg) 100%);
+}
+
+/* Custom Leaflet marker pins */
+.ut-pin {
+  width: 30px;
+  height: 30px;
+  border-radius: 50% 50% 50% 0;
+  transform: rotate(-45deg);
+  border: 2.5px solid var(--ut-on-dark);
+  box-shadow: var(--ut-pin-shadow);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.16s ease;
+}
+
+.ut-pin:hover {
+  transform: rotate(-45deg) scale(1.1);
+}
+
+.ut-pin-inner {
+  transform: rotate(45deg);
+  color: var(--ut-on-dark);
+  font-weight: 700;
+  font-size: 11px;
+  font-family: var(--ut-font-sans);
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 16px;
+  background: var(--ut-surface);
+  color: var(--ut-ink);
+  box-shadow: var(--ut-popup-shadow);
+  padding: 2px;
+}
+
+.leaflet-popup-tip {
+  background: var(--ut-surface);
+}
+
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

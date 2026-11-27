@@ -1,0 +1,27 @@
+# Secrets & environment
+.env
+.env.local
+.auth_secret
+users.json
+bookings.json
+booking_requests.json
+messages.json
+notifications.json
+reviews.json
+guide_requests.json
+sos_alerts.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Runtime community photo uploads
+upload_*
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/

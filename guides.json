@@ -1,0 +1,320 @@
+[
+  {
+    "id": "guide_001",
+    "name": "Rameshwaram Koya",
+    "name_te": "రామేశ్వరం కోయ",
+    "region": "Mulugu, Telangana",
+    "state": "Telangana",
+    "languages": [
+      "Telugu",
+      "English",
+      "Koya"
+    ],
+    "places_covered": [
+      "Bogatha Waterfall",
+      "Ghanpur Kota Gullu",
+      "Laknavaram"
+    ],
+    "rate_per_day": 900,
+    "rating": 4.9,
+    "reviews_count": 34,
+    "verified": true,
+    "experience_years": 7,
+    "bio": "Eco-tourism forest guide certified by Mulugu community committee; specializes in safe waterfall trails and tribal medicinal flora."
+  },
+  {
+    "id": "guide_002",
+    "name": "Padma Bhavani",
+    "name_te": "పద్మ భవాని",
+    "region": "Yadadri Bhuvanagiri, Telangana",
+    "state": "Telangana",
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "English"
+    ],
+    "places_covered": [
+      "Pochampally Ikat Cluster",
+      "Kolanupaka Jain Temple"
+    ],
+    "rate_per_day": 750,
+    "rating": 4.9,
+    "reviews_count": 41,
+    "verified": true,
+    "experience_years": 9,
+    "bio": "Second-generation ikat textile curator guiding live pit-loom demonstrations, natural dye workshops, and weaver cooperative visits."
+  },
+  {
+    "id": "guide_003",
+    "name": "Srinivasulu Reddy",
+    "name_te": "శ్రీనివాసులు రెడ్డి",
+    "region": "YSR Kadapa & Kurnool, Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "languages": [
+      "Telugu",
+      "English"
+    ],
+    "places_covered": [
+      "Gandikota Canyon",
+      "Belum Caves",
+      "Yaganti"
+    ],
+    "rate_per_day": 1000,
+    "rating": 4.8,
+    "reviews_count": 29,
+    "verified": true,
+    "experience_years": 6,
+    "bio": "Heritage & geology enthusiast leading sunrise fort walks, canyon safety routes, and Rayalaseema culinary stops."
+  },
+  {
+    "id": "guide_004",
+    "name": "Satyavati Devi",
+    "name_te": "సత్యవతి దేవి",
+    "region": "Konaseema, Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "languages": [
+      "Telugu",
+      "English"
+    ],
+    "places_covered": [
+      "Konaseema Backwaters",
+      "Atreyapuram Pootharekulu",
+      "Coringa Mangroves"
+    ],
+    "rate_per_day": 850,
+    "rating": 4.9,
+    "reviews_count": 38,
+    "verified": true,
+    "experience_years": 8,
+    "bio": "Godavari delta storyteller arranging traditional country-boat rides, village sweet-making visits, and mangrove birding."
+  },
+  {
+    "id": "guide_005",
+    "name": "Babu Rao Korra",
+    "name_te": "బాబు రావు కొర్ర",
+    "region": "Alluri Sitharama Raju, Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "languages": [
+      "Telugu",
+      "English",
+      "Adivasi Dialects"
+    ],
+    "places_covered": [
+      "Araku Coffee Trails",
+      "Maredumilli Waterfalls",
+      "Borra Surroundings"
+    ],
+    "rate_per_day": 950,
+    "rating": 4.8,
+    "reviews_count": 27,
+    "verified": true,
+    "experience_years": 10,
+    "bio": "Eastern Ghats mountain & coffee trail expert guiding tribal bamboo markets, waterfall safety checks, and village homestays."
+  },
+  {
+    "id": "guide_006",
+    "name": "Maheshwari Devi",
+    "name_te": "మహేశ్వరి దేవి",
+    "region": "Nirmal & Adilabad, Telangana",
+    "state": "Telangana",
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "English"
+    ],
+    "places_covered": [
+      "Nirmal Toy Craft Village",
+      "Kuntala & Pochera Falls",
+      "Kawal Buffer"
+    ],
+    "rate_per_day": 800,
+    "rating": 4.7,
+    "reviews_count": 22,
+    "verified": true,
+    "experience_years": 5,
+    "bio": "Artisan-cluster facilitator connecting travellers directly with GI-tagged Nirmal woodcraft painters and monsoon safety lookouts."
+  },
+  {
+    "id": "6a9db679f05a5ee5345707db",
+    "slug": "g-omkar",
+    "name": "Omkar Naik",
+    "name_te": "",
+    "photo": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=800&q=80&auto=format&fit=crop",
+    "region": "Konkan Coast",
+    "state": "Konkan Coast",
+    "specialization": "Coastal & Sea Forts",
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "places_covered": [
+      "Vengurla",
+      "Ganpatipule",
+      "Sindhudurg fort"
+    ],
+    "rate_per_day": 450,
+    "rating": 4.6,
+    "reviews_count": 1,
+    "reviews": [
+      {
+        "name": "Pooja",
+        "rating": 4,
+        "text": "Took us snorkeling at a secret spot. Amazing!"
+      }
+    ],
+    "verified": true,
+    "available": true,
+    "experience_years": 5,
+    "bio": "A fisherman-turned-guide who knows every hidden cove and the best local seafood spots.",
+    "source": "smartyatra-export"
+  },
+  {
+    "id": "6a9db679f05a5ee5345707da",
+    "slug": "g-tenzin",
+    "name": "Tenzin Dolma",
+    "name_te": "",
+    "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=800&q=80&auto=format&fit=crop",
+    "region": "Spiti Valley",
+    "state": "Spiti Valley",
+    "specialization": "Monasteries & High Altitude",
+    "languages": [
+      "Bhoti",
+      "Hindi",
+      "English"
+    ],
+    "places_covered": [
+      "Key Monastery",
+      "Chandratal",
+      "Langza",
+      "Komic"
+    ],
+    "rate_per_day": 700,
+    "rating": 4.7,
+    "reviews_count": 1,
+    "reviews": [
+      {
+        "name": "Vikram",
+        "rating": 5,
+        "text": "Her stories brought the monasteries alive."
+      }
+    ],
+    "verified": true,
+    "available": false,
+    "experience_years": 7,
+    "bio": "A local from Kaza who guides travellers safely through Spiti’s monasteries and high passes.",
+    "source": "smartyatra-export"
+  },
+  {
+    "id": "6a9db679f05a5ee5345707d9",
+    "slug": "g-david",
+    "name": "David Marak",
+    "name_te": "",
+    "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80&auto=format&fit=crop",
+    "region": "Meghalaya",
+    "state": "Meghalaya",
+    "specialization": "Living Root Bridges & Treks",
+    "languages": [
+      "Khasi",
+      "English",
+      "Hindi"
+    ],
+    "places_covered": [
+      "Cherrapunjee",
+      "Mawlynnong",
+      "Dawki",
+      "Nongstoin"
+    ],
+    "rate_per_day": 800,
+    "rating": 4.9,
+    "reviews_count": 1,
+    "reviews": [
+      {
+        "name": "Rohit",
+        "rating": 5,
+        "text": "Best trek guide — patient and incredibly safe."
+      }
+    ],
+    "verified": true,
+    "available": true,
+    "experience_years": 10,
+    "bio": "A Khasi guide who has trekked every root bridge in the region and knows the safest river crossings.",
+    "source": "smartyatra-export"
+  },
+  {
+    "id": "6a9db679f05a5ee5345707d8",
+    "slug": "g-anitha",
+    "name": "Anitha Pangi",
+    "name_te": "",
+    "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=800&q=80&auto=format&fit=crop",
+    "region": "Araku Valley",
+    "state": "Araku Valley",
+    "specialization": "Tribal Culture & Food",
+    "languages": [
+      "Telugu",
+      "Tribal dialects",
+      "Hindi"
+    ],
+    "places_covered": [
+      "Araku Valley",
+      "Lambasingi",
+      "Padmapuram"
+    ],
+    "rate_per_day": 500,
+    "rating": 4.8,
+    "reviews_count": 1,
+    "reviews": [
+      {
+        "name": "Sneha",
+        "rating": 5,
+        "text": "The food experience was unforgettable — real home cooking."
+      }
+    ],
+    "verified": true,
+    "available": true,
+    "experience_years": 6,
+    "bio": "A tribal heritage storyteller who opens doors to real Adivasi kitchens, dances and craft traditions.",
+    "source": "smartyatra-export"
+  },
+  {
+    "id": "6a9db679f05a5ee5345707d7",
+    "slug": "g-ravi",
+    "name": "Ravi Korra",
+    "name_te": "",
+    "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800&q=80&auto=format&fit=crop",
+    "region": "Araku Valley",
+    "state": "Araku Valley",
+    "specialization": "Trekking & Viewpoints",
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "English"
+    ],
+    "places_covered": [
+      "Araku Valley",
+      "Lambasingi",
+      "Borra Caves",
+      "Ananthagiri"
+    ],
+    "rate_per_day": 600,
+    "rating": 4.9,
+    "reviews_count": 2,
+    "reviews": [
+      {
+        "name": "Aisha",
+        "rating": 5,
+        "text": "Took us to a viewpoint with zero crowds. Magical sunrise!"
+      },
+      {
+        "name": "Karan",
+        "rating": 5,
+        "text": "Knowledgeable and genuinely caring about safety."
+      }
+    ],
+    "verified": true,
+    "available": true,
+    "experience_years": 8,
+    "bio": "Born in the valley, Ravi knows every hidden trail, waterfall and the best sunrise spots most tourists never reach.",
+    "source": "smartyatra-export"
+  }
+]
