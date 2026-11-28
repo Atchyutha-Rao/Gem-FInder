@@ -45,6 +45,29 @@ All application files live directly inside `Tourist Places`:
 4. **Open in browser:**
    Visit [http://localhost:8000](http://localhost:8000)
 
-## Data Sources & Credits
-- All seed locations, coordinates, and historical summaries were verified against public tourism references, GI tag registries, and Wikipedia records for Telangana and Andhra Pradesh.
-- Local support contacts marked `(Sample Demo)` are illustrative placeholders for hackathon demonstration; always check local timings before travelling.
+
+
+##The Web
+
+Website Link : https://gem-f-inder.vercel.app/
+
+##Example Log In Credentials :
+
+(Kindly Use These Log In Credentials)
+
+User Log In : atchyutharaoika@gmail.com 
+
+Password : atc123
+
+Host Log In : s240073@rguktsklm.ac.in
+
+Password : atc123
+
+Admin Log In : ikaatchyutharao@gmail.com
+
+Password : atc123
+
+##Referance
+
+Google Drive Link : https://drive.google.com/drive/folders/1MIbo5497secYM7KUSF01RiRy-IDDDfwX
+
